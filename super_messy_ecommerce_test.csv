@@ -1,0 +1,801 @@
+Order Id,Customer  Name,Age,Gender,City,Order Amount,Payment Method,Order Date,Delivery Days
+1102,david ,0,male,BANGALORE,999,Cash,invalid,5
+1435,CHARLIE,unknown,,New York,100,net banking,15-03-24,3
+1860,bob,18,,pune,250.5,,12-01-2024,0
+1270,Eve,-5,unknown,,500,Cash,15-03-24,-2
+1106, frank,0,F,,500,Net_Banking,2024/02/15,5
+1071,,30,MALE ,New York,100,card,15-03-24,15
+1700,,120,F,pune,500,Net_Banking,,fast
+1020,CHARLIE,40,Female, Delhi ,0,Net_Banking,12-01-2024,
+1614,david ,unknown,,New York,N/A,net banking,15-03-24,fast
+1121,Alice,40,M,,N/A,,12-01-2024,5
+1466,david ,unknown,M, Delhi ,500,card,12-01-2024,fast
+1214,CHARLIE,,MALE , Delhi ,-450,Cash,2024/02/15,3
+1330,,35,Female,New York,,Cash,2024/02/15,3
+1458,david ,unknown,unknown,,-450,,,1
+1087,,40,male,BANGALORE,,UPI,invalid,-2
+1372,Eve,,Female,,N/A,,12-01-2024,1
+1099, frank,unknown,M,mumbai,N/A,,invalid,fast
+1871,Alice,30,M,pune,100,Cash,,
+1663,Eve,35,unknown,,999,net banking,12-01-2024,5
+1130,,unknown,,BANGALORE,250.5,Net_Banking,12-01-2024,0
+1661,,,Female, Delhi ,-450,,invalid,fast
+1308,bob,,Female,BANGALORE,0,Net_Banking,15-03-24,0
+1769,bob,-5,M,pune,,Net_Banking,2024/02/15,3
+1343,Eve,25,male, Delhi ,500,card,15-03-24,0
+1491,,0,MALE ,pune,0,Cash,invalid,0
+1413,Eve,25,, Delhi ,999,,2024/02/15,
+1805,bob,,MALE ,BANGALORE,,net banking,15-03-24,0
+1385,,25,Female, Delhi ,-450,card,2024/02/15,fast
+1191,CHARLIE,,MALE , Delhi ,100,UPI,12-01-2024,5
+1955,Eve,18,M,mumbai,0,net banking,15-03-24,0
+1276,,,M,,999,,2024/02/15,15
+1160,CHARLIE,,unknown,,-450,net banking,2024/02/15,0
+1459,CHARLIE,,Female,,N/A,net banking,2024/02/15,0
+1313,bob,30,unknown,,N/A,Net_Banking,15-03-24,1
+1021,Eve,-5,Female,mumbai,-450,net banking,,5
+1252,david ,120,,,-450,,15-03-24,fast
+1747,Alice,unknown,,pune,-450,,invalid,3
+1856,bob,0,,BANGALORE,,Cash,15-03-24,1
+1560,bob,35,Female,New York,-450,net banking,2024/02/15,fast
+1474,david ,-5,male,pune,0,Net_Banking,12-01-2024,-2
+1058,Alice,40,MALE ,New York,999,net banking,15-03-24,5
+1510,,120,Female,New York,,UPI,15-03-24,15
+1681,,18,F,mumbai,-450,UPI,2024/02/15,5
+1475,Eve,18,,pune,250.5,Net_Banking,12-01-2024,-2
+1699,,,F,mumbai,500,Cash,12-01-2024,-2
+1975,,-5,M, Delhi ,250.5,Cash,invalid,-2
+1782, frank,,,New York,999,,15-03-24,
+1189,bob,25,MALE ,BANGALORE,N/A,,12-01-2024,3
+1957,Alice,40,Female,,100,card,12-01-2024,0
+1686,bob,18,F,BANGALORE,100,Net_Banking,,5
+1957,CHARLIE,0,MALE ,,500,net banking,,fast
+1562,bob,18,M,New York,N/A,,12-01-2024,
+1875,bob,35,,New York,,Net_Banking,invalid,fast
+1566,,unknown,male,New York,,card,12-01-2024,0
+1243,,18,,mumbai,,,2024/02/15,0
+1831,,35,MALE ,pune,100,Net_Banking,15-03-24,15
+1504,,-5,MALE ,,250.5,Net_Banking,invalid,-2
+1130,CHARLIE,-5,male,pune,100,,2024/02/15,3
+1484, frank,120,MALE ,mumbai,0,card,invalid,15
+1818, frank,18,M,mumbai,-450,,2024/02/15,1
+1646,,0,M,,,Cash,15-03-24,
+1020,Alice,18,male,BANGALORE,250.5,net banking,15-03-24,
+1840,,0,,BANGALORE,999,,,3
+1166,david ,30,Female, Delhi ,500,card,2024/02/15,0
+1273,Alice,,F,mumbai,999,UPI,,fast
+1387,Eve,120,Female,,-450,Cash,2024/02/15,
+1600,Eve,30,MALE ,,250.5,UPI,,3
+1315,Alice,18,F,,100,,15-03-24,
+1013,,120,unknown,pune,100,,invalid,
+1241,david ,30,male,BANGALORE,0,Cash,,-2
+1776,david ,25,male,mumbai,0,net banking,2024/02/15,1
+1345,,18,, Delhi ,100,,2024/02/15,-2
+1564,david ,30,F,mumbai,999,net banking,15-03-24,1
+1897,Eve,25,M,pune,500,Net_Banking,2024/02/15,
+1339,CHARLIE,25,F,New York,,UPI,12-01-2024,15
+1091,,-5,MALE ,mumbai,999,Cash,invalid,fast
+1366,david ,18,M,pune,500,net banking,,0
+1955,,25,,New York,0,card,invalid,
+1454,Eve,-5,,New York,-450,net banking,15-03-24,1
+1427,CHARLIE,30,unknown, Delhi ,500,card,,1
+1508,bob,35,,,100,,,1
+1775,bob,18,male,BANGALORE,0,Cash,12-01-2024,
+1942,CHARLIE,120,F,mumbai,0,net banking,15-03-24,3
+1034,Eve,0,,New York,,,2024/02/15,15
+1205,,0,Female,mumbai,100,net banking,12-01-2024,3
+1080,CHARLIE,30,,,,,12-01-2024,0
+1931,,,Female,BANGALORE,100,Cash,invalid,
+1561,,,,,,net banking,invalid,1
+1871,bob,30,unknown,BANGALORE,500,card,invalid,15
+1387,david ,25,,,999,net banking,12-01-2024,15
+1001,,18,MALE ,BANGALORE,-450,UPI,2024/02/15,5
+1389,bob,0,Female, Delhi ,-450,,,0
+1565,david ,0,unknown,,100,Net_Banking,invalid,fast
+1105,david ,25,F,New York,250.5,card,2024/02/15,fast
+1771, frank,0,F,,N/A,UPI,15-03-24,15
+1821,,120,Female, Delhi ,0,,invalid,
+1476,Eve,18,,mumbai,0,,,1
+1702,Alice,unknown,unknown,,100,Cash,15-03-24,1
+1401,Eve,0,F,pune,500,card,15-03-24,15
+1729,Alice,30,MALE ,pune,,Net_Banking,,3
+1555,CHARLIE,120,M,New York,250.5,,invalid,0
+1161,,0,,BANGALORE,999,,12-01-2024,1
+1201,david ,,unknown,New York,,Net_Banking,,15
+1957,,120,MALE ,pune,,Cash,,1
+1995,Alice,-5,unknown,mumbai,100,Cash,,fast
+1269,Eve,unknown,,,100,,15-03-24,15
+1862,david ,40,MALE ,,500,card,2024/02/15,0
+1815,Alice,30,,,0,,12-01-2024,15
+1270,Alice,30,,,100,net banking,invalid,5
+1455, frank,18,,,100,Cash,invalid,15
+1461,Alice,120,F,,100,,2024/02/15,15
+1726,,25,M,,500,net banking,,
+1251,,30,,pune,0,UPI,12-01-2024,fast
+1701,,120,,pune,999,Net_Banking,invalid,0
+1295,bob,120,F,BANGALORE,999,net banking,invalid,
+1724,david ,,male, Delhi ,N/A,Net_Banking,,15
+1719,,35,F,,N/A,,2024/02/15,0
+1748, frank,35,,,100,net banking,12-01-2024,5
+1337,,40,F, Delhi ,N/A,,2024/02/15,0
+1878,,-5,F,New York,0,UPI,2024/02/15,1
+1052,Eve,40,M,,500,Cash,12-01-2024,
+1791,,0,F,BANGALORE,999,UPI,12-01-2024,0
+1921, frank,25,unknown,,,Cash,invalid,fast
+1216,,0,,,999,,invalid,5
+1763,,,unknown,mumbai,999,Cash,12-01-2024,-2
+1187,CHARLIE,0,M,mumbai,0,Net_Banking,15-03-24,15
+1379,david ,18,Female,,N/A,,invalid,0
+1492,,0,male,,,UPI,15-03-24,15
+1040,david ,40,unknown,pune,0,net banking,12-01-2024,3
+1156,CHARLIE,30,M,BANGALORE,100,UPI,invalid,1
+1014,CHARLIE,30,, Delhi ,500,Net_Banking,2024/02/15,
+1812,david ,35,Female,mumbai,-450,Cash,12-01-2024,1
+1064,Alice,25,M,pune,999,Net_Banking,,3
+1856,bob,25,M,pune,-450,card,15-03-24,3
+1838,Eve,18,male, Delhi ,500,card,12-01-2024,
+1520,Alice,40,,pune,500,net banking,12-01-2024,0
+1343,Alice,35,unknown,BANGALORE,0,Net_Banking,invalid,3
+1128,,,,,0,,invalid,-2
+1647,Eve,,MALE ,,0,net banking,invalid,15
+1471,Eve,25,unknown, Delhi ,-450,,,15
+1062,Alice,30,MALE ,,0,net banking,invalid,5
+1138,,0,M,,500,card,12-01-2024,fast
+1498,,0,F,New York,100,net banking,invalid,3
+1592,,35,, Delhi ,0,card,2024/02/15,3
+1391,CHARLIE,40,Female,pune,250.5,Cash,invalid,-2
+1674, frank,40,F,,N/A,,,1
+1418,Eve,-5,F, Delhi ,-450,Net_Banking,2024/02/15,1
+1288,Alice,unknown,unknown,pune,250.5,net banking,12-01-2024,15
+1378,CHARLIE,25,,,0,card,12-01-2024,15
+1772,david ,40,,,500,UPI,15-03-24,0
+1489,bob,30,M,pune,100,,2024/02/15,
+1230, frank,35,M,BANGALORE,999,net banking,15-03-24,fast
+1040, frank,,M,pune,,,2024/02/15,-2
+1027, frank,-5,M,New York,N/A,Cash,2024/02/15,
+1134,,120,unknown,,,Cash,,
+1200,david ,18,MALE ,pune,0,UPI,15-03-24,5
+1839, frank,,M,mumbai,N/A,card,,
+1779,david ,120,MALE ,mumbai,N/A,net banking,2024/02/15,5
+1929,,,MALE ,New York,100,,12-01-2024,
+1032, frank,0,,BANGALORE,N/A,card,2024/02/15,-2
+1047,bob,18,M,,-450,Cash,,5
+1502,david ,25,male, Delhi ,250.5,card,15-03-24,1
+1406,david ,30,Female,New York,250.5,Cash,15-03-24,5
+1573,bob,18,F,BANGALORE,250.5,card,,5
+1727, frank,unknown,MALE , Delhi ,-450,UPI,15-03-24,-2
+1804,bob,120,,mumbai,,Net_Banking,invalid,-2
+1098,david ,25,,mumbai,100,UPI,12-01-2024,5
+1683,bob,unknown,Female, Delhi ,N/A,UPI,12-01-2024,fast
+1871,david ,0,,New York,-450,Net_Banking,12-01-2024,3
+1725,david ,unknown,male,mumbai,250.5,Net_Banking,15-03-24,fast
+1986,,-5,,,0,net banking,15-03-24,-2
+1546,Alice,-5,F,,999,,2024/02/15,fast
+1960,david ,,F,pune,N/A,,2024/02/15,fast
+1738, frank,35,MALE , Delhi ,-450,net banking,12-01-2024,0
+1612,CHARLIE,,M, Delhi ,500,UPI,invalid,0
+1942,,,,mumbai,-450,UPI,2024/02/15,1
+1461,Eve,25,male,New York,100,Cash,2024/02/15,
+1642,Alice,0,MALE ,,100,Cash,15-03-24,5
+1768,Alice,40,male,New York,-450,,invalid,3
+1004,Alice,,M,BANGALORE,250.5,net banking,12-01-2024,1
+1217,,-5,unknown,BANGALORE,999,,2024/02/15,5
+1502,david ,25,,,N/A,,invalid,fast
+1766,,40,,mumbai,100,net banking,invalid,-2
+1397,david ,,,mumbai,N/A,Cash,12-01-2024,0
+1870, frank,35,M,mumbai,250.5,,invalid,15
+1794,,unknown,MALE ,,N/A,,invalid,3
+1392,,-5,,BANGALORE,0,Cash,invalid,fast
+1206,,25,M,New York,100,,2024/02/15,15
+1014,CHARLIE,18,Female,,250.5,card,12-01-2024,0
+1857,,40,F,,250.5,card,invalid,fast
+1553,,unknown,,New York,999,Cash,invalid,
+1891,bob,-5,,mumbai,999,card,2024/02/15,
+1460,CHARLIE,,MALE ,,0,Net_Banking,12-01-2024,15
+1690, frank,0,male,New York,250.5,net banking,15-03-24,-2
+1574,,40,Female,BANGALORE,,net banking,2024/02/15,fast
+1863,Eve,,MALE , Delhi ,250.5,Cash,12-01-2024,5
+1742,Alice,-5,M, Delhi ,999,UPI,invalid,fast
+1240,bob,40,M,pune,,,12-01-2024,-2
+1563,bob,,M,pune,100,Cash,12-01-2024,fast
+1095, frank,unknown,unknown,,100,card,12-01-2024,15
+1899,,-5,M, Delhi ,N/A,,15-03-24,-2
+1733,bob,,male,,-450,UPI,12-01-2024,0
+1484,CHARLIE,120,Female,mumbai,999,card,15-03-24,3
+1406,,25,,BANGALORE,-450,,invalid,-2
+1230,,unknown,F,pune,,Net_Banking,15-03-24,fast
+1748,Eve,40,male,,999,card,invalid,0
+1654, frank,0,male,BANGALORE,0,Net_Banking,invalid,3
+1170,Alice,,unknown,BANGALORE,250.5,,15-03-24,
+1540,,18,,mumbai,0,Net_Banking,2024/02/15,5
+1035,Alice,,,,,,,15
+1524,bob,40,F, Delhi ,999,,12-01-2024,fast
+1159, frank,,F,mumbai,500,,,fast
+1838,Eve,25,,,,,12-01-2024,
+1698,Alice,-5,M,,500,,12-01-2024,5
+1242,CHARLIE,,male,,250.5,card,invalid,
+1085,,18,MALE ,,100,,12-01-2024,1
+1795,bob,30,F,pune,100,card,12-01-2024,
+1577,Eve,40,unknown,,,,15-03-24,0
+1681,Alice,35,unknown,mumbai,-450,Net_Banking,,3
+1556,,30,F,,999,,15-03-24,fast
+1573,CHARLIE,,,,999,,12-01-2024,
+1952,CHARLIE,40,Female,BANGALORE,100,UPI,invalid,fast
+1645,Alice,,MALE ,BANGALORE,N/A,,15-03-24,-2
+1795,,120,MALE ,New York,0,,15-03-24,5
+1027,Alice,,F,,N/A,Net_Banking,2024/02/15,
+1619,bob,35,M,BANGALORE,250.5,net banking,12-01-2024,3
+1555,Alice,18,Female,New York,0,Net_Banking,invalid,0
+1339,CHARLIE,,MALE ,pune,0,UPI,15-03-24,1
+1797,Eve,0,F,pune,,net banking,15-03-24,fast
+1957,Alice,120,unknown,BANGALORE,100,Cash,invalid,5
+1330,,30,MALE ,,N/A,Cash,12-01-2024,15
+1639, frank,-5,,,N/A,UPI,2024/02/15,3
+1505,Eve,25,Female, Delhi ,100,Net_Banking,15-03-24,15
+1347,,0,Female,,N/A,card,2024/02/15,3
+1472,david ,120,,mumbai,500,UPI,,3
+1230,Alice,-5,male,pune,100,,12-01-2024,0
+1189,,-5,unknown,BANGALORE,,net banking,,0
+1224,Eve,40,,BANGALORE,-450,net banking,,0
+1384,,120,,,0,,,
+1376,,18,,mumbai,,Cash,12-01-2024,-2
+1282,CHARLIE,,F,,999,net banking,12-01-2024,3
+1957,,35,Female,mumbai,250.5,UPI,invalid,5
+1632,Eve,35,male, Delhi ,-450,net banking,2024/02/15,15
+1627,,30,male,pune,999,UPI,2024/02/15,0
+1972,,30,MALE ,BANGALORE,0,card,invalid,
+1744,,35,MALE ,BANGALORE,N/A,,invalid,0
+1258,bob,,, Delhi ,100,Cash,,15
+1358,bob,18,male,New York,0,net banking,invalid,15
+1709,CHARLIE,,,pune,,UPI,15-03-24,fast
+1455,Alice,,unknown,,250.5,Net_Banking,2024/02/15,3
+1410,,25,, Delhi ,,Cash,invalid,0
+1648,,unknown,MALE ,,-450,card,15-03-24,15
+1317,Alice,,Female,,-450,UPI,15-03-24,-2
+1676,,25,,BANGALORE,250.5,,15-03-24,-2
+1224,Alice,40,M,,500,,15-03-24,0
+1818,CHARLIE,unknown,Female,mumbai,999,,,
+1233,,unknown,male,,999,,15-03-24,15
+1683,,120,male,,-450,card,,fast
+1663,david ,18,,pune,-450,card,,3
+1974,,18,Female,BANGALORE,N/A,,15-03-24,3
+1826,Alice,unknown,MALE , Delhi ,100,net banking,2024/02/15,
+1373,Alice,,MALE ,,N/A,net banking,15-03-24,fast
+1671, frank,120,,BANGALORE,N/A,UPI,15-03-24,3
+1607, frank,,male,,500,Net_Banking,15-03-24,fast
+1471,bob,unknown,F,pune,999,UPI,2024/02/15,1
+1232,david ,0,,New York,500,Net_Banking,12-01-2024,0
+1691,Eve,30,MALE ,pune,500,card,12-01-2024,3
+1112, frank,30,Female,New York,250.5,Cash,,-2
+1829,Eve,25,unknown,mumbai,999,UPI,,15
+1496,bob,40,MALE ,pune,100,UPI,2024/02/15,fast
+1441,bob,30,Female,BANGALORE,,Net_Banking,invalid,fast
+1563,bob,-5,,New York,-450,card,12-01-2024,5
+1267,,25,male, Delhi ,-450,card,,
+1509,,30,MALE ,BANGALORE,100,,12-01-2024,5
+1806,CHARLIE,40,, Delhi ,500,Net_Banking,2024/02/15,3
+1385,CHARLIE,,Female,pune,N/A,card,2024/02/15,5
+1386,bob,,male, Delhi ,250.5,,invalid,5
+1112,david ,18,unknown,New York,500,net banking,invalid,1
+1612,Alice,18,unknown,BANGALORE,-450,,2024/02/15,fast
+1624,,,F,,0,,,-2
+1951,david ,unknown,Female,,N/A,Cash,12-01-2024,
+1080,,0,,New York,-450,UPI,15-03-24,-2
+1698,,18,F,New York,0,,invalid,1
+1112,,120,F,,500,Cash,15-03-24,1
+1001,CHARLIE,30,M,BANGALORE,100,UPI,,5
+1641,Alice,120,MALE ,BANGALORE,100,net banking,invalid,0
+1219,Alice,40,Female,pune,N/A,card,15-03-24,fast
+1565, frank,18,F, Delhi ,-450,,,15
+1854,Eve,0,M,pune,999,Net_Banking,12-01-2024,fast
+1996,Eve,40,,,0,,,15
+1735,Eve,-5,male,pune,250.5,net banking,invalid,5
+1224,Eve,-5,,,-450,Cash,2024/02/15,15
+1384,,120,,BANGALORE,250.5,Net_Banking,12-01-2024,1
+1402,,unknown,Female, Delhi ,-450,card,15-03-24,-2
+1637,,25,F,pune,999,net banking,invalid,15
+1129,bob,unknown,,New York,999,Net_Banking,2024/02/15,fast
+1052,CHARLIE,,MALE ,mumbai,N/A,net banking,,
+1683,CHARLIE,,,,N/A,net banking,2024/02/15,5
+1729,Eve,unknown,,New York,999,card,invalid,0
+1671,,,,BANGALORE,,,invalid,5
+1709, frank,,unknown,,999,UPI,2024/02/15,3
+1415,david ,0,M,mumbai,100,Net_Banking,,5
+1246,bob,18,F,mumbai,100,card,2024/02/15,1
+1835,,0,MALE , Delhi ,,net banking,invalid,-2
+1438,bob,,F,,500,card,invalid,-2
+1202,bob,40,unknown, Delhi ,0,,15-03-24,
+1183,bob,-5,Female,New York,500,UPI,15-03-24,15
+1122,,,Female,,250.5,,12-01-2024,1
+1400,Eve,0,Female,,500,Net_Banking,invalid,3
+1766,CHARLIE,40,,,-450,UPI,15-03-24,1
+1293,CHARLIE,0,,,500,Cash,2024/02/15,5
+1279,Eve,unknown,,,-450,Net_Banking,,1
+1836,bob,30,M,New York,,UPI,2024/02/15,1
+1883,david ,120,Female, Delhi ,100,net banking,,
+1609,Alice,25,unknown,,N/A,Net_Banking,15-03-24,3
+1197,,,MALE , Delhi ,-450,Net_Banking,12-01-2024,5
+1981,Alice,0,F,,100,card,2024/02/15,0
+1906, frank,25,, Delhi ,0,net banking,2024/02/15,
+1510,Eve,35,male,mumbai,250.5,Cash,2024/02/15,0
+1751,david ,0,MALE , Delhi ,0,,,
+1143,,30,,,,,15-03-24,-2
+1608,Eve,25,,mumbai,500,UPI,2024/02/15,fast
+1200,bob,,, Delhi ,500,card,2024/02/15,
+1123,CHARLIE,,MALE ,,999,UPI,12-01-2024,15
+1186,Alice,0,,,999,Cash,12-01-2024,1
+1325,,18,Female,,999,Cash,15-03-24,-2
+1463,,120,M,BANGALORE,0,Net_Banking,15-03-24,3
+1348,david ,30,F,New York,-450,,invalid,0
+1770,bob,25,M,,250.5,Cash,12-01-2024,fast
+1659, frank,30,,mumbai,999,UPI,invalid,fast
+1763,Alice,40,F,,,net banking,,
+1954,bob,,unknown,BANGALORE,,net banking,invalid,1
+1931,Alice,120,F,,999,Net_Banking,2024/02/15,3
+1402,david ,,M,mumbai,500,,invalid,15
+1345,david ,0,MALE ,BANGALORE,999,UPI,15-03-24,3
+1962, frank,0,F,,250.5,UPI,,1
+1510,,0,unknown,pune,999,Cash,2024/02/15,15
+1146,bob,120,unknown,pune,250.5,,invalid,3
+1147,,18,unknown,mumbai,,UPI,,15
+1863,,35,M, Delhi ,999,card,,
+1710,bob,-5,F,New York,0,,2024/02/15,
+1819,,unknown,male,New York,N/A,Cash,invalid,1
+1488,,25,MALE ,BANGALORE,0,card,,1
+1928,CHARLIE,18,Female,,,Net_Banking,,15
+1935,CHARLIE,,F,New York,250.5,net banking,12-01-2024,5
+1639, frank,25,unknown,,0,Net_Banking,,-2
+1550,CHARLIE,0,male,,250.5,net banking,12-01-2024,fast
+1337,CHARLIE,30,Female,BANGALORE,0,Net_Banking,invalid,3
+1871,Eve,,Female,BANGALORE,0,UPI,invalid,3
+1640,Alice,25,,BANGALORE,250.5,card,invalid,5
+1778,Eve,,F,New York,-450,net banking,15-03-24,5
+1987,Eve,0,M,pune,0,Cash,invalid,5
+1952, frank,25,F,BANGALORE,999,card,,0
+1472,Eve,30,male,New York,N/A,Cash,2024/02/15,0
+1945,CHARLIE,,Female,BANGALORE,,card,12-01-2024,15
+1150,,0,F,,-450,card,15-03-24,0
+1414, frank,35,M,,250.5,Net_Banking,invalid,
+1989, frank,18,,BANGALORE,-450,net banking,invalid,
+1297,david ,40,F,mumbai,100,net banking,2024/02/15,1
+1610, frank,unknown,MALE ,,100,,2024/02/15,fast
+1262,david ,120,,,0,card,15-03-24,15
+1763, frank,unknown,M,BANGALORE,0,UPI,12-01-2024,fast
+1143,Alice,,male,pune,999,UPI,invalid,3
+1345,CHARLIE,unknown,Female, Delhi ,N/A,Cash,15-03-24,-2
+1623, frank,0,F,pune,,Cash,,1
+1571,CHARLIE,35,M,BANGALORE,-450,Net_Banking,,3
+1880,CHARLIE,40,,,100,card,15-03-24,3
+1001,,18,MALE ,mumbai,0,Cash,invalid,15
+1896, frank,18,M,,500,Cash,15-03-24,5
+1303,bob,30,,pune,500,,invalid,5
+1253,,120,unknown,mumbai,,card,2024/02/15,fast
+1651,bob,25,MALE ,New York,-450,Net_Banking,15-03-24,1
+1452,CHARLIE,35,,,0,Cash,invalid,5
+1036,CHARLIE,25,male,,0,Net_Banking,15-03-24,3
+1159,,40,Female,BANGALORE,100,net banking,15-03-24,5
+1008,,unknown,,New York,100,Net_Banking,invalid,0
+1232,bob,18,unknown,,0,UPI,invalid,5
+1098,david ,40,male,BANGALORE,250.5,UPI,12-01-2024,3
+1658,bob,unknown,F, Delhi ,0,Net_Banking,15-03-24,fast
+1815,,18,M,BANGALORE,,UPI,,15
+1207,,unknown,,mumbai,0,net banking,15-03-24,1
+1130,,120,MALE ,mumbai,999,card,15-03-24,-2
+1403,,35,MALE , Delhi ,N/A,UPI,invalid,5
+1151,Alice,,M,New York,999,UPI,15-03-24,
+1053,,,,,999,Net_Banking,15-03-24,
+1119,Alice,40,M,BANGALORE,250.5,net banking,,fast
+1672,david ,40,F,mumbai,250.5,,invalid,3
+1919,bob,,unknown,New York,500,,15-03-24,-2
+1627,,-5,male, Delhi ,0,,2024/02/15,-2
+1586,bob,0,,pune,999,,12-01-2024,0
+1624,Alice,120,MALE ,,250.5,card,,-2
+1967,,120,F,pune,100,Net_Banking,15-03-24,
+1419,bob,,male,pune,0,Net_Banking,2024/02/15,15
+1421,,25,F,mumbai,,,15-03-24,3
+1103,CHARLIE,unknown,, Delhi ,N/A,net banking,15-03-24,3
+1851,Alice,0,MALE ,BANGALORE,-450,,invalid,5
+1253,bob,35,,pune,0,card,invalid,5
+1226,Alice,35,M,pune,-450,net banking,invalid,5
+1111,Eve,,M,,999,,2024/02/15,
+1509,Alice,120,male,mumbai,N/A,card,15-03-24,
+1472,,35,,mumbai,-450,net banking,12-01-2024,fast
+1098,Eve,-5,unknown,BANGALORE,999,Net_Banking,,
+1152, frank,40,Female,,100,Net_Banking,invalid,
+1860,,30,,New York,-450,Cash,invalid,
+1913,CHARLIE,,male,,N/A,UPI,15-03-24,
+1895,Eve,,Female,mumbai,500,,15-03-24,15
+1877, frank,25,F,,0,,2024/02/15,
+1337,,unknown,,mumbai,999,net banking,2024/02/15,fast
+1705,Alice,,F,,0,,invalid,-2
+1821,bob,unknown,unknown, Delhi ,N/A,Cash,15-03-24,-2
+1162,david ,18,,pune,250.5,UPI,12-01-2024,0
+1719,Alice,,MALE ,mumbai,999,net banking,,15
+1956, frank,30,,,-450,card,15-03-24,5
+1680,Alice,120,Female,New York,999,,15-03-24,1
+1995,CHARLIE,-5,unknown, Delhi ,0,UPI,2024/02/15,
+1160,,40,MALE , Delhi ,100,Net_Banking,,0
+1579,david ,40,M,New York,999,Cash,invalid,1
+1800,Eve,-5,Female,,-450,UPI,15-03-24,fast
+1397,Eve,0,male,BANGALORE,250.5,,invalid,-2
+1276,Eve,18,M,New York,500,UPI,15-03-24,0
+1815, frank,unknown,unknown,,,,invalid,fast
+1915,,30,M,New York,100,Net_Banking,,0
+1503,,35,male,New York,500,net banking,2024/02/15,3
+1895,bob,,,mumbai,250.5,card,,fast
+1391,david ,18,M,,999,Net_Banking,12-01-2024,-2
+1134,Eve,,,BANGALORE,0,card,2024/02/15,-2
+1194,,,Female,pune,N/A,net banking,,15
+1400, frank,30,MALE ,mumbai,0,UPI,12-01-2024,0
+1639,bob,25,M,New York,500,card,15-03-24,
+1032,,25,Female,pune,-450,Cash,15-03-24,-2
+1687,bob,18,F,,0,Cash,invalid,0
+1459,,120,Female,pune,100,,2024/02/15,15
+1954,CHARLIE,30,MALE ,New York,0,Net_Banking,15-03-24,
+1882, frank,30,Female,New York,-450,net banking,2024/02/15,fast
+1469,CHARLIE,-5,male,,,,15-03-24,15
+1374,Eve,120,unknown,,999,Net_Banking,invalid,3
+1021,CHARLIE,unknown,MALE ,mumbai,N/A,Net_Banking,,
+1749,Eve,unknown,unknown,BANGALORE,500,,invalid,0
+1669,Eve,35,,mumbai,999,,12-01-2024,-2
+1037,,40,unknown, Delhi ,0,Net_Banking,15-03-24,-2
+1229,CHARLIE,25,F,New York,250.5,,12-01-2024,0
+1364,Eve,,male,pune,999,Cash,12-01-2024,0
+1562,david ,unknown,,,,Cash,2024/02/15,0
+1437,,120,Female,New York,0,Net_Banking,15-03-24,5
+1775,bob,30,MALE ,New York,N/A,Cash,12-01-2024,
+1282,bob,,F,mumbai,-450,net banking,,-2
+1026,,unknown,male,,,,12-01-2024,
+1225,CHARLIE,30,,,0,,,15
+1276,CHARLIE,unknown,,,,Net_Banking,2024/02/15,-2
+1797,Eve,25,F,mumbai,999,Cash,12-01-2024,5
+1608, frank,,,New York,N/A,card,invalid,0
+1283,Alice,unknown,Female,mumbai,-450,,2024/02/15,3
+1878,Eve,120,F,,0,,,0
+1959,,unknown,,,100,,2024/02/15,fast
+1480,david ,40,M,mumbai,500,Net_Banking,12-01-2024,0
+1452,bob,,male,,-450,Net_Banking,15-03-24,5
+1828,Eve,,F,New York,100,net banking,15-03-24,
+1815,Alice,25,,mumbai,,UPI,,-2
+1658,Alice,120,,mumbai,250.5,UPI,,0
+1515,Eve,-5,Female,mumbai,-450,,15-03-24,-2
+1546,,120,unknown, Delhi ,,,,1
+1191,bob,,,,100,net banking,2024/02/15,15
+1048,,40,Female,pune,999,net banking,invalid,
+1511,david ,,F,,999,net banking,invalid,-2
+1016,Alice,25,Female,BANGALORE,250.5,,2024/02/15,3
+1171,Alice,-5,MALE ,pune,500,UPI,invalid,15
+1219,,40,MALE ,,-450,,12-01-2024,fast
+1157,david ,40,MALE ,BANGALORE,-450,net banking,2024/02/15,fast
+1476,Alice,18,, Delhi ,-450,,,3
+1045,david ,25,,mumbai,500,Cash,2024/02/15,0
+1372,bob,120,M, Delhi ,,Net_Banking,15-03-24,15
+1517,CHARLIE,30,, Delhi ,N/A,Net_Banking,,-2
+1098,Alice,,unknown,pune,N/A,,15-03-24,15
+1891,,30,F,New York,250.5,card,,0
+1744,bob,120,,pune,-450,card,invalid,5
+1036,Eve,120,,,,,2024/02/15,
+1279,david ,25,M,BANGALORE,999,,12-01-2024,3
+1348,Eve,120,,mumbai,100,Net_Banking,,0
+1496,,,unknown,pune,,Cash,,5
+1301,bob,18,Female,BANGALORE,500,UPI,15-03-24,15
+1180,Eve,-5,M,,N/A,UPI,invalid,15
+1606, frank,120,unknown,BANGALORE,N/A,,15-03-24,0
+1098, frank,30,Female,,999,Cash,15-03-24,-2
+1699,Alice,120,unknown,pune,999,,invalid,15
+1992,david ,18,Female,,500,UPI,12-01-2024,-2
+1115,CHARLIE,,male,pune,100,,15-03-24,-2
+1190,bob,,unknown,,999,,15-03-24,
+1252,Alice,unknown,,BANGALORE,250.5,net banking,,-2
+1980,,,MALE ,BANGALORE,100,,invalid,1
+1927,,unknown,,,999,,2024/02/15,
+1982,david ,40,Female, Delhi ,0,Net_Banking,12-01-2024,5
+1160,bob,,male,,,,12-01-2024,5
+1255, frank,35,unknown,New York,999,Net_Banking,invalid,15
+1322,bob,,,mumbai,250.5,Cash,,15
+1127,CHARLIE,-5,MALE ,BANGALORE,-450,UPI,,-2
+1017, frank,0,Female,mumbai,999,,invalid,
+1792,CHARLIE,40,unknown,New York,N/A,,,
+ ,,,unknown,pune,N/A,card,12-01-2024,1
+1734,,,Female,mumbai,N/A,card,12-01-2024,-2
+1565,,unknown,M,New York,-450,UPI,2024/02/15,1
+1569,Alice,30,M,,N/A,card,invalid,fast
+1322,Alice,0,, Delhi ,0,,15-03-24,-2
+1871,,,MALE ,BANGALORE,999,,15-03-24,3
+1685,,,Female,New York,500,Cash,2024/02/15,3
+1791,,,,mumbai,N/A,Cash,2024/02/15,0
+1625,,40,,BANGALORE,100,UPI,,-2
+1287,,0,F, Delhi ,500,card,2024/02/15,
+1942,Eve,25,unknown,,-450,,2024/02/15,15
+1853, frank,35,,pune,0,Cash,15-03-24,5
+1662,david ,25,unknown,BANGALORE,100,Cash,,0
+1961,,0,M,pune,100,net banking,2024/02/15,15
+1638,CHARLIE,25,MALE ,New York,100,net banking,2024/02/15,3
+1154,,,unknown, Delhi ,100,,,-2
+1489,,18,Female,mumbai,500,Cash,invalid,0
+1385,,unknown,, Delhi ,500,UPI,,-2
+1985,Eve,18,Female, Delhi ,999,Net_Banking,15-03-24,3
+1784, frank,120,F,,N/A,Net_Banking,invalid,0
+1103,Eve,25,MALE , Delhi ,,,12-01-2024,3
+1928,Alice,120,, Delhi ,999,Cash,,1
+1392,Eve,30,Female,BANGALORE,999,Cash,15-03-24,3
+1810,CHARLIE,-5,M,mumbai,0,,invalid,
+1245,CHARLIE,30,,BANGALORE,0,Cash,,
+1175,Eve,0,F,BANGALORE,N/A,UPI,2024/02/15,-2
+1038, frank,,MALE ,New York,,net banking,,5
+1476,,unknown,F,BANGALORE,0,Cash,12-01-2024,3
+1681,david ,25,M,,N/A,Cash,,15
+1758, frank,40,MALE ,,N/A,,invalid,
+1537,Eve,-5,F,pune,500,card,invalid,fast
+1866,,35,male,New York,250.5,,,5
+1817,bob,35,M,pune,500,,invalid,1
+1920,david ,35,M,pune,,UPI,2024/02/15,0
+1407,david ,25,M,,0,,,0
+1524,CHARLIE,35,male,mumbai,,Cash,2024/02/15,
+1827,david ,,male,mumbai,999,,2024/02/15,5
+1505,Eve,18,Female,BANGALORE,999,,15-03-24,
+1902,,-5,,BANGALORE,,card,,0
+1824,,18,,,250.5,,invalid,fast
+1035,Alice,,F,BANGALORE,250.5,Net_Banking,2024/02/15,3
+1684,,-5,Female,mumbai,500,,15-03-24,5
+1019, frank,18,F,pune,,Cash,,-2
+1320,,-5,, Delhi ,0,Cash,,3
+1775,CHARLIE,,,,500,card,12-01-2024,3
+1511,,120,male, Delhi ,-450,UPI,12-01-2024,3
+1399,Alice,,, Delhi ,250.5,Cash,2024/02/15,-2
+1653,bob,25,male,mumbai,100,Net_Banking,12-01-2024,fast
+1971,Eve,25,, Delhi ,500,Cash,2024/02/15,1
+1882,CHARLIE,35,,,999,Net_Banking,invalid,fast
+1470, frank,,Female,New York,500,,2024/02/15,fast
+1142,bob,30,MALE ,BANGALORE,,,12-01-2024,fast
+1091,CHARLIE,35,Female,New York,100,net banking,invalid,15
+1353,,0,F,pune,,net banking,12-01-2024,
+1833,david ,,Female,,N/A,Net_Banking,2024/02/15,0
+1799,,18,,BANGALORE,999,UPI,15-03-24,
+1726,,-5,M, Delhi ,999,Cash,,5
+1958,bob,30,F,,250.5,,12-01-2024,fast
+1853,,,,BANGALORE,500,Cash,2024/02/15,1
+1050,david ,,F,,250.5,net banking,invalid,5
+1664,CHARLIE,0,MALE ,,100,,12-01-2024,
+1697,david ,,male,,500,Net_Banking,12-01-2024,0
+1574,Alice,25,,,N/A,,,-2
+1189,david ,25,unknown, Delhi ,,Cash,2024/02/15,
+1124,Alice,35,F,New York,N/A,Cash,15-03-24,3
+1149,david ,18,,BANGALORE,999,UPI,invalid,
+1313,Eve,30,, Delhi ,100,card,2024/02/15,3
+1569,Alice,unknown,,,-450,,invalid,-2
+1341,bob,0,male,pune,100,net banking,12-01-2024,
+1304,,0,unknown,New York,0,net banking,,1
+1691, frank,,,pune,100,card,,1
+1681,,35,Female,,N/A,Cash,15-03-24,5
+1837,,25,,pune,0,UPI,,-2
+1782,,35,M,,0,UPI,12-01-2024,fast
+1053,CHARLIE,-5,,,500,net banking,15-03-24,1
+ORD-XYZ,Eve,,MALE ,,500,UPI,2024/02/15,
+1443,david ,,male,,0,,,-2
+1612,,30,F,mumbai,-450,card,15-03-24,0
+1992,CHARLIE,18,male,BANGALORE,500,Cash,12-01-2024,3
+1263,CHARLIE,120,F,BANGALORE,100,,invalid,
+1052,Alice,40,male,,N/A,card,invalid,3
+1571,,40,F,mumbai,100,Net_Banking,12-01-2024,3
+1619,bob,,,pune,-450,,12-01-2024,fast
+1004, frank,35,Female, Delhi ,999,net banking,invalid,-2
+1102,bob,-5,F,pune,250.5,UPI,15-03-24,-2
+1195,,30,unknown, Delhi ,N/A,Net_Banking,invalid,5
+1773,Eve,unknown,F,,500,UPI,12-01-2024,3
+1876,bob,40,M,New York,N/A,,,5
+1991,david ,30,F, Delhi ,100,Cash,2024/02/15,fast
+1883,bob,,M,New York,250.5,Cash,,3
+1349,,18,MALE ,BANGALORE,,Cash,,5
+1046, frank,,,New York,,UPI,12-01-2024,5
+1866,bob,-5,M,BANGALORE,500,Net_Banking,invalid,0
+1822,david ,25,Female,mumbai,-450,Cash,15-03-24,5
+1935,Alice,30,,mumbai,,Net_Banking,,-2
+1819,Eve,18,,,N/A,UPI,invalid,5
+1655,,unknown,M,,,,15-03-24,3
+1268,Alice,120,,,999,Net_Banking,,5
+1369,Alice,25,unknown, Delhi ,999,,15-03-24,1
+1635,Alice,,,,500,UPI,invalid,15
+1105,CHARLIE,120,,BANGALORE,999,UPI,2024/02/15,3
+1669,Eve,unknown,MALE ,,,net banking,invalid,1
+1658, frank,18,Female,New York,-450,UPI,12-01-2024,fast
+1656,,40,male,BANGALORE,0,UPI,15-03-24,3
+1119,Eve,120,male,,0,card,2024/02/15,-2
+1830,CHARLIE,,M,mumbai,500,Cash,15-03-24,15
+1786,,25,,,250.5,net banking,15-03-24,15
+1603,Eve,35,M, Delhi ,0,,,-2
+1057,Alice,0,MALE ,BANGALORE,0,net banking,12-01-2024,15
+1950,,30,MALE ,BANGALORE,999,net banking,15-03-24,-2
+1345,,40,F,New York,999,,invalid,1
+1740,david ,120,unknown, Delhi ,,card,invalid,fast
+1473,david ,,MALE ,mumbai,500,,,0
+1116,bob,30,F,pune,250.5,UPI,12-01-2024,3
+1829,,35,Female,BANGALORE,500,Cash,12-01-2024,-2
+1790,,unknown,M,BANGALORE,100,Net_Banking,invalid,3
+1126, frank,0,,New York,N/A,,2024/02/15,fast
+1392,CHARLIE,18,Female,,250.5,,,1
+1907,Alice,35,MALE ,mumbai,250.5,,,0
+1640,bob,35,Female,,-450,UPI,invalid,fast
+1057,david ,unknown,Female, Delhi ,500,card,invalid,1
+1633,CHARLIE,-5,unknown,BANGALORE,,,2024/02/15,15
+1512,CHARLIE,unknown,unknown,BANGALORE,-450,UPI,2024/02/15,3
+1750,Alice,-5,unknown,,250.5,UPI,12-01-2024,
+1801, frank,-5,Female,mumbai,250.5,card,,0
+1095, frank,40,MALE ,,250.5,net banking,,15
+1637,,40,,BANGALORE,0,net banking,invalid,fast
+1117,david ,25,,mumbai,500,Cash,12-01-2024,0
+1559, frank,120,Female,,N/A,Cash,,15
+1600,,120,F,New York,N/A,net banking,12-01-2024,1
+1487, frank,,MALE ,,-450,,12-01-2024,-2
+1236,CHARLIE,18,Female, Delhi ,250.5,Net_Banking,invalid,3
+1884,Alice,120,,BANGALORE,N/A,UPI,12-01-2024,5
+1896,,40,,mumbai,999,Net_Banking,2024/02/15,5
+1271,,25,unknown,New York,500,UPI,2024/02/15,1
+1188,david ,25,MALE , Delhi ,N/A,net banking,15-03-24,fast
+1998,,-5,male,pune,,Cash,invalid,3
+1703,CHARLIE,,,mumbai,500,,15-03-24,fast
+1446,,unknown,F,mumbai,,Cash,2024/02/15,3
+1580,,18,Female, Delhi ,N/A,Net_Banking,15-03-24,1
+1789,,-5,,New York,999,Cash,invalid,3
+1860,CHARLIE,unknown,male,pune,,net banking,invalid,-2
+1246,CHARLIE,120,,,0,,12-01-2024,fast
+1962,,,male,New York,N/A,Net_Banking,,1
+1075,bob,-5,MALE ,,0,,12-01-2024,-2
+1153,,30,male,BANGALORE,N/A,UPI,invalid,3
+1655,david ,120,F, Delhi ,100,Cash,2024/02/15,1
+1434,Alice,unknown,F,,100,,2024/02/15,3
+1996,,18,M,pune,100,card,12-01-2024,fast
+1085,bob,unknown,F, Delhi ,,Cash,invalid,1
+1696,Alice,-5,, Delhi ,0,UPI,2024/02/15,3
+1284,bob,-5,male,New York,0,,invalid,fast
+1973, frank,35,F,BANGALORE,0,Net_Banking,2024/02/15,-2
+1219, frank,18,MALE ,,999,UPI,invalid,
+1068,Eve,,,mumbai,0,card,15-03-24,-2
+1046, frank,120,unknown,mumbai,999,,invalid,3
+1093,,25,, Delhi ,100,,invalid,1
+1749, frank,18,M,BANGALORE,100,,12-01-2024,5
+1957,CHARLIE,25,,pune,,net banking,15-03-24,-2
+1452,,18,male,pune,N/A,Cash,,-2
+1203,,18,M,,100,Net_Banking,12-01-2024,fast
+1911,Alice,unknown,male,New York,N/A,net banking,,15
+1217,Eve,18,MALE ,BANGALORE,N/A,,2024/02/15,5
+1473,Eve,35,M,BANGALORE,500,,,3
+1431,Eve,,Female,New York,,,invalid,
+1340,Alice,-5,,pune,250.5,,,1
+1550,Alice,0,,pune,250.5,,12-01-2024,15
+1611,Alice,25,male,pune,-450,,12-01-2024,3
+1288,Alice,-5,, Delhi ,500,UPI,,0
+1253,Eve,0,unknown,BANGALORE,,,12-01-2024,
+1733,Eve,,unknown,mumbai,-450,Net_Banking,12-01-2024,-2
+1356,bob,,Female,New York,-450,net banking,,0
+1022,,25,M,pune,500,Net_Banking,15-03-24,-2
+1761,,25,Female,,250.5,card,15-03-24,-2
+1521, frank,,Female,pune,,,2024/02/15,0
+1757, frank,0,,pune,250.5,card,12-01-2024,
+1836,CHARLIE,18,unknown,,-450,Cash,,fast
+1099,Eve,120,M, Delhi ,,Cash,12-01-2024,0
+1801,CHARLIE,,MALE ,New York,-450,card,invalid,3
+1179,,30,,,0,,12-01-2024,15
+1222,,,Female,,500,Net_Banking,12-01-2024,15
+1905,CHARLIE,-5,Female,,N/A,card,15-03-24,0
+1761,Eve,unknown,MALE ,BANGALORE,,Cash,,3
+1658,CHARLIE,-5,Female,,,card,12-01-2024,fast
+1441, frank,unknown,Female,BANGALORE,N/A,,15-03-24,15
+1607,bob,0,Female,BANGALORE,-450,card,2024/02/15,3
+1768, frank,unknown,,New York,0,Net_Banking,15-03-24,fast
+1324,david ,25,,pune,999,net banking,15-03-24,3
+1515,Eve,120,F,New York,N/A,,15-03-24,-2
+1015,Eve,120,, Delhi ,500,Cash,12-01-2024,15
+1791,,25,MALE ,BANGALORE,250.5,Net_Banking,12-01-2024,fast
+1335,Alice,35,Female,,-450,card,2024/02/15,15
+1758,david ,,,pune,N/A,card,invalid,-2
+1257,,0,,mumbai,N/A,net banking,invalid,0
+1496,Eve,,unknown, Delhi ,,Cash,invalid,-2
+1987,CHARLIE,35,MALE ,New York,250.5,Cash,2024/02/15,15
+1895,david ,35,male,,250.5,UPI,invalid,15
+1159,,-5,, Delhi ,500,Cash,invalid,
+1474,,,male, Delhi ,250.5,net banking,15-03-24,fast
+1851,Alice,-5,Female,pune,N/A,,12-01-2024,0
+1663,Alice,,, Delhi ,999,UPI,12-01-2024,-2
+1907,,30,, Delhi ,100,UPI,15-03-24,fast
+1689,,unknown,,mumbai,-450,card,15-03-24,1
+1674,CHARLIE,,MALE ,,100,card,15-03-24,fast
+1379,Eve,,MALE ,,N/A,Cash,12-01-2024,1
+1544,Alice,25,,,100,UPI,invalid,0
+1928,,-5,MALE ,BANGALORE,N/A,card,15-03-24,-2
+1956,david ,0,,,100,net banking,2024/02/15,-2
+1690,,unknown,,,250.5,card,15-03-24,3
+1426,bob,30,F, Delhi ,0,,,15
+1612,bob,,, Delhi ,250.5,,15-03-24,5
+1267,,30,male,,250.5,card,12-01-2024,
+1834,CHARLIE,0,MALE ,pune,500,UPI,15-03-24,fast
+1576,bob,35,,,,,,0
+1416,Alice,120,, Delhi ,,,2024/02/15,5
+1167,,0,,BANGALORE,100,UPI,invalid,fast
+1841,,40,MALE ,New York,N/A,Net_Banking,15-03-24,5
+1042,,0,F,New York,500,,,0
+1555,Eve,30,,,250.5,,,-2
+1284,Eve,25,F,mumbai,500,net banking,2024/02/15,0
+1396,david ,-5,unknown,,100,UPI,12-01-2024,fast
+1011,,25,,pune,,Cash,15-03-24,5
+1606, frank,30,MALE ,,0,,,15
+1301,david ,-5,M,New York,-450,net banking,2024/02/15,
+1897, frank,40,MALE , Delhi ,100,net banking,invalid,
+1252,Eve,120,MALE ,,500,UPI,,15
+1498,,unknown,F, Delhi ,0,net banking,2024/02/15,15
+1753, frank,,F, Delhi ,-450,UPI,12-01-2024,-2
+1034,,30,MALE ,mumbai,999,,12-01-2024,fast
+1726,,,MALE , Delhi ,100,card,,1
+1848,Eve,30,MALE ,New York,100,,,0
+1089,david ,30,F,BANGALORE,999,Net_Banking,15-03-24,
+1775,david ,-5,MALE ,BANGALORE,999,card,2024/02/15,15
+1604,,18,MALE ,,100,,,0
+1921,bob,0,unknown,pune,999,UPI,15-03-24,
+1969,CHARLIE,18,Female,,250.5,,15-03-24,15
+1601,Eve,40,M,pune,-450,,,fast
+1417,CHARLIE,,male,New York,-450,UPI,12-01-2024,
+1114,CHARLIE,120,M, Delhi ,-450,card,2024/02/15,-2
+1616,david ,35,Female,BANGALORE,250.5,Cash,2024/02/15,1
+1902,david ,40,male,pune,N/A,Cash,12-01-2024,1
+1195,bob,35,,New York,999,,,15
+1825,CHARLIE,35,MALE ,BANGALORE,0,Cash,2024/02/15,
+1500,CHARLIE,120,Female, Delhi ,999,UPI,,-2
+1625,,25,unknown,pune,100,net banking,,3
+1492,david ,18,,BANGALORE,,UPI,15-03-24,0
+1074,CHARLIE,30,MALE ,,500,net banking,12-01-2024,0
+1412,,unknown,F,,500,card,,5
+1375,bob,35,,,-450,Net_Banking,invalid,-2
+1419, frank,,Female,,999,net banking,12-01-2024,
+1728,,40,F,BANGALORE,0,Cash,2024/02/15,fast
+1276,,25,Female,New York,100,UPI,15-03-24,fast
+1760, frank,35,unknown,,250.5,card,2024/02/15,5
+1675,Eve,25,Female,New York,N/A,Cash,2024/02/15,15
+1393,Eve,25,F,New York,250.5,card,12-01-2024,
+1868,bob,35,unknown,BANGALORE,0,Net_Banking,2024/02/15,5
+1456,,-5,male,New York,100,,,1
+1919,CHARLIE,0,M,,-450,UPI,2024/02/15,0
+1191,david ,,MALE , Delhi ,999,,15-03-24,
+1738,bob,30,Female,,100,UPI,15-03-24,5
+1688,,30,MALE , Delhi ,500,Net_Banking,invalid,1
+1098, frank,,,New York,N/A,UPI,15-03-24,-2
+1547,,-5,F, Delhi ,250.5,,2024/02/15,5
+1977,bob,30,MALE ,,N/A,net banking,15-03-24,15
+1998,Alice,25,F,,N/A,card,12-01-2024,15
+1095,Alice,120,MALE ,New York,0,,15-03-24,15
+1663,Eve,40,M,BANGALORE,0,Cash,,
+1662, frank,18,M, Delhi ,999,Net_Banking,12-01-2024,fast
+1189,david ,30,unknown,BANGALORE,0,net banking,invalid,fast
+1735,CHARLIE,,M,BANGALORE,0,Cash,,0
+1036,david ,120,unknown,mumbai,100,Cash,2024/02/15,5
+1779,david ,35,M,New York,500,Net_Banking,2024/02/15,-2
+1368,david ,0,M,,-450,net banking,2024/02/15,5
+1694, frank,,M,,999,,,0
+1524,david ,25,F,,100,Cash,,1
+1278,,0,Female,New York,-450,Cash,,0
+1216, frank,40,unknown,pune,N/A,net banking,12-01-2024,15
+1866,,40,MALE ,pune,100,UPI,12-01-2024,
+1872, frank,-5,M,pune,,Cash,2024/02/15,1
+1797,Eve,unknown,F,,100,card,15-03-24,
+1272,bob,-5,F,,0,net banking,2024/02/15,15
+1880,Alice,120,F,New York,-450,Cash,invalid,3
+1061,david ,0,unknown,,999,Net_Banking,12-01-2024,0
+1595,Eve,unknown,Female,BANGALORE,999,,,0
+1879,bob,35,unknown, Delhi ,-450,card,12-01-2024,-2
+1728,Alice,25,MALE , Delhi ,0,,,5
+1341,,0,Female,,250.5,,invalid,1
+1396,CHARLIE,-5,male,mumbai,100,Cash,invalid,fast
+1698,,18,,,0,card,12-01-2024,
+1018,,,F,pune,,card,,1
+1176, frank,unknown,unknown,,500,UPI,invalid,-2
+1611,Alice,unknown,male,,N/A,,2024/02/15,-2
+1395,,25,,BANGALORE,-450,card,2024/02/15,
+1444,CHARLIE,30,unknown,,500,UPI,,fast
+1232,Eve,40,M, Delhi ,100,net banking,12-01-2024,5
+1914,Alice,40,,BANGALORE,999,UPI,invalid,
+1075,,18,M,New York,N/A,Net_Banking,12-01-2024,
+1264,,120,Female,,500,,2024/02/15,15
+1454,,120,,,250.5,Cash,invalid,fast
+1795,bob,35,unknown,New York,500,net banking,12-01-2024,5
+1717,,0,MALE ,,,,15-03-24,0
+1734,david ,,male,New York,999,,,15
+1383,,,MALE ,BANGALORE,-450,net banking,,3

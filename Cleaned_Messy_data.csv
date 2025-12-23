@@ -1,0 +1,580 @@
+,ORDER_ID,CUSTOMER_NAME,AGE,GENDER,CITY,ORDER_AMOUNT,PAYMENT_METHOD,ORDER_DATE,DELIVERY_DAYS,ORDER_RANGE,DELIVERY_SPEED
+0,1435,charlie,25,Unspecified,new york,100.0,Net_Banking,2024-03-15,3,low,slow
+1,1860,bob,18,Unspecified,pune,250.5,Unspecified,2024-01-12,0,low,slow
+2,1071,Unknown,30,Male,new york,100.0,Card,2024-03-15,15,low,fast
+3,1020,charlie,40,Female, delhi ,0.0,Net_Banking,2024-01-12,4,,slow
+4,1614,david ,25,Unspecified,new york,350.25,Net_Banking,2024-03-15,4,low,slow
+5,1121,alice,40,Male,unspecified,350.25,Unspecified,2024-01-12,5,low,fast
+6,1466,david ,25,Male, delhi ,500.0,Card,2024-01-12,4,high,slow
+7,1214,charlie,25,Male, delhi ,450.0,Cash,2024-02-15,3,high,slow
+8,1330,Unknown,35,Female,new york,350.25,Cash,2024-02-15,3,low,slow
+9,1458,david ,25,Unspecified,unspecified,450.0,Unspecified,2024-02-15,1,high,slow
+10,1087,Unknown,40,Male,bangalore,350.25,Upi,2024-02-15,2,low,slow
+11,1372,eve,25,Female,unspecified,350.25,Unspecified,2024-01-12,1,low,slow
+12,1099, frank,25,Male,mumbai,350.25,Unspecified,2024-02-15,4,low,slow
+13,1871,alice,30,Male,pune,100.0,Cash,2024-02-15,4,low,slow
+14,1663,eve,35,Unspecified,unspecified,999.0,Net_Banking,2024-01-12,5,high,fast
+15,1130,Unknown,25,Unspecified,bangalore,250.5,Net_Banking,2024-01-12,0,low,slow
+16,1661,Unknown,25,Female, delhi ,450.0,Unspecified,2024-02-15,4,high,slow
+17,1308,bob,25,Female,bangalore,0.0,Net_Banking,2024-03-15,0,,slow
+18,1343,eve,25,Male, delhi ,500.0,Card,2024-03-15,0,high,slow
+19,1413,eve,25,Unspecified, delhi ,999.0,Unspecified,2024-02-15,4,high,slow
+20,1805,bob,25,Male,bangalore,350.25,Net_Banking,2024-03-15,0,low,slow
+21,1385,Unknown,25,Female, delhi ,450.0,Card,2024-02-15,4,high,slow
+22,1191,charlie,25,Male, delhi ,100.0,Upi,2024-01-12,5,low,fast
+23,1955,eve,18,Male,mumbai,0.0,Net_Banking,2024-03-15,0,,slow
+24,1276,Unknown,25,Male,unspecified,999.0,Unspecified,2024-02-15,15,high,fast
+25,1160,charlie,25,Unspecified,unspecified,450.0,Net_Banking,2024-02-15,0,high,slow
+26,1459,charlie,25,Female,unspecified,350.25,Net_Banking,2024-02-15,0,low,slow
+27,1313,bob,30,Unspecified,unspecified,350.25,Net_Banking,2024-03-15,1,low,slow
+28,1747,alice,25,Unspecified,pune,450.0,Unspecified,2024-02-15,3,high,slow
+29,1560,bob,35,Female,new york,450.0,Net_Banking,2024-02-15,4,high,slow
+30,1058,alice,40,Male,new york,999.0,Net_Banking,2024-03-15,5,high,fast
+31,1681,Unknown,18,Female,mumbai,450.0,Upi,2024-02-15,5,high,fast
+32,1475,eve,18,Unspecified,pune,250.5,Net_Banking,2024-01-12,2,low,slow
+33,1699,Unknown,25,Female,mumbai,500.0,Cash,2024-01-12,2,high,slow
+34,1782, frank,25,Unspecified,new york,999.0,Unspecified,2024-03-15,4,high,slow
+35,1189,bob,25,Male,bangalore,350.25,Unspecified,2024-01-12,3,low,slow
+36,1957,alice,40,Female,unspecified,100.0,Card,2024-01-12,0,low,slow
+37,1686,bob,18,Female,bangalore,100.0,Net_Banking,2024-02-15,5,low,fast
+38,1562,bob,18,Male,new york,350.25,Unspecified,2024-01-12,4,low,slow
+39,1875,bob,35,Unspecified,new york,350.25,Net_Banking,2024-02-15,4,low,slow
+40,1566,Unknown,25,Male,new york,350.25,Card,2024-01-12,0,low,slow
+41,1243,Unknown,18,Unspecified,mumbai,350.25,Unspecified,2024-02-15,0,low,slow
+42,1831,Unknown,35,Male,pune,100.0,Net_Banking,2024-03-15,15,low,fast
+43,1818, frank,18,Male,mumbai,450.0,Unspecified,2024-02-15,1,high,slow
+44,1020,alice,18,Male,bangalore,250.5,Net_Banking,2024-03-15,4,low,slow
+45,1166,david ,30,Female, delhi ,500.0,Card,2024-02-15,0,high,slow
+46,1273,alice,25,Female,mumbai,999.0,Upi,2024-02-15,4,high,slow
+47,1600,eve,30,Male,unspecified,250.5,Upi,2024-02-15,3,low,slow
+48,1315,alice,18,Female,unspecified,100.0,Unspecified,2024-03-15,4,low,slow
+49,1241,david ,30,Male,bangalore,0.0,Cash,2024-02-15,2,,slow
+50,1776,david ,25,Male,mumbai,0.0,Net_Banking,2024-02-15,1,,slow
+51,1345,Unknown,18,Unspecified, delhi ,100.0,Unspecified,2024-02-15,2,low,slow
+52,1564,david ,30,Female,mumbai,999.0,Net_Banking,2024-03-15,1,high,slow
+53,1897,eve,25,Male,pune,500.0,Net_Banking,2024-02-15,4,high,slow
+54,1339,charlie,25,Female,new york,350.25,Upi,2024-01-12,15,low,fast
+55,1366,david ,18,Male,pune,500.0,Net_Banking,2024-02-15,0,high,slow
+56,1955,Unknown,25,Unspecified,new york,0.0,Card,2024-02-15,4,,slow
+57,1427,charlie,30,Unspecified, delhi ,500.0,Card,2024-02-15,1,high,slow
+58,1508,bob,35,Unspecified,unspecified,100.0,Unspecified,2024-02-15,1,low,slow
+59,1775,bob,18,Male,bangalore,0.0,Cash,2024-01-12,4,,slow
+60,1080,charlie,30,Unspecified,unspecified,350.25,Unspecified,2024-01-12,0,low,slow
+61,1931,Unknown,25,Female,bangalore,100.0,Cash,2024-02-15,4,low,slow
+62,1561,Unknown,25,Unspecified,unspecified,350.25,Net_Banking,2024-02-15,1,low,slow
+63,1871,bob,30,Unspecified,bangalore,500.0,Card,2024-02-15,15,high,fast
+64,1387,david ,25,Unspecified,unspecified,999.0,Net_Banking,2024-01-12,15,high,fast
+65,1001,Unknown,18,Male,bangalore,450.0,Upi,2024-02-15,5,high,fast
+66,1105,david ,25,Female,new york,250.5,Card,2024-02-15,4,low,slow
+67,1476,eve,18,Unspecified,mumbai,0.0,Unspecified,2024-02-15,1,,slow
+68,1702,alice,25,Unspecified,unspecified,100.0,Cash,2024-03-15,1,low,slow
+69,1729,alice,30,Male,pune,350.25,Net_Banking,2024-02-15,3,low,slow
+70,1201,david ,25,Unspecified,new york,350.25,Net_Banking,2024-02-15,15,low,fast
+71,1269,eve,25,Unspecified,unspecified,100.0,Unspecified,2024-03-15,15,low,fast
+72,1862,david ,40,Male,unspecified,500.0,Card,2024-02-15,0,high,slow
+73,1815,alice,30,Unspecified,unspecified,0.0,Unspecified,2024-01-12,15,,fast
+74,1270,alice,30,Unspecified,unspecified,100.0,Net_Banking,2024-02-15,5,low,fast
+75,1455, frank,18,Unspecified,unspecified,100.0,Cash,2024-02-15,15,low,fast
+76,1726,Unknown,25,Male,unspecified,500.0,Net_Banking,2024-02-15,4,high,slow
+77,1251,Unknown,30,Unspecified,pune,0.0,Upi,2024-01-12,4,,slow
+78,1724,david ,25,Male, delhi ,350.25,Net_Banking,2024-02-15,15,low,fast
+79,1719,Unknown,35,Female,unspecified,350.25,Unspecified,2024-02-15,0,low,slow
+80,1748, frank,35,Unspecified,unspecified,100.0,Net_Banking,2024-01-12,5,low,fast
+81,1337,Unknown,40,Female, delhi ,350.25,Unspecified,2024-02-15,0,low,slow
+82,1052,eve,40,Male,unspecified,500.0,Cash,2024-01-12,4,high,slow
+83,1921, frank,25,Unspecified,unspecified,350.25,Cash,2024-02-15,4,low,slow
+84,1763,Unknown,25,Unspecified,mumbai,999.0,Cash,2024-01-12,2,high,slow
+85,1379,david ,18,Female,unspecified,350.25,Unspecified,2024-02-15,0,low,slow
+86,1040,david ,40,Unspecified,pune,0.0,Net_Banking,2024-01-12,3,,slow
+87,1156,charlie,30,Male,bangalore,100.0,Upi,2024-02-15,1,low,slow
+88,1014,charlie,30,Unspecified, delhi ,500.0,Net_Banking,2024-02-15,4,high,slow
+89,1812,david ,35,Female,mumbai,450.0,Cash,2024-01-12,1,high,slow
+90,1064,alice,25,Male,pune,999.0,Net_Banking,2024-02-15,3,high,slow
+91,1856,bob,25,Male,pune,450.0,Card,2024-03-15,3,high,slow
+92,1838,eve,18,Male, delhi ,500.0,Card,2024-01-12,4,high,slow
+93,1520,alice,40,Unspecified,pune,500.0,Net_Banking,2024-01-12,0,high,slow
+94,1343,alice,35,Unspecified,bangalore,0.0,Net_Banking,2024-02-15,3,,slow
+95,1128,Unknown,25,Unspecified,unspecified,0.0,Unspecified,2024-02-15,2,,slow
+96,1647,eve,25,Male,unspecified,0.0,Net_Banking,2024-02-15,15,,fast
+97,1471,eve,25,Unspecified, delhi ,450.0,Unspecified,2024-02-15,15,high,fast
+98,1062,alice,30,Male,unspecified,0.0,Net_Banking,2024-02-15,5,,fast
+99,1592,Unknown,35,Unspecified, delhi ,0.0,Card,2024-02-15,3,,slow
+100,1391,charlie,40,Female,pune,250.5,Cash,2024-02-15,2,low,slow
+101,1674, frank,40,Female,unspecified,350.25,Unspecified,2024-02-15,1,low,slow
+102,1288,alice,25,Unspecified,pune,250.5,Net_Banking,2024-01-12,15,low,fast
+103,1378,charlie,25,Unspecified,unspecified,0.0,Card,2024-01-12,15,,fast
+104,1772,david ,40,Unspecified,unspecified,500.0,Upi,2024-03-15,0,high,slow
+105,1489,bob,30,Male,pune,100.0,Unspecified,2024-02-15,4,low,slow
+106,1230, frank,35,Male,bangalore,999.0,Net_Banking,2024-03-15,4,high,slow
+107,1040, frank,25,Male,pune,350.25,Unspecified,2024-02-15,2,low,slow
+108,1200,david ,18,Male,pune,0.0,Upi,2024-03-15,5,,fast
+109,1839, frank,25,Male,mumbai,350.25,Card,2024-02-15,4,low,slow
+110,1929,Unknown,25,Male,new york,100.0,Unspecified,2024-01-12,4,low,slow
+111,1047,bob,18,Male,unspecified,450.0,Cash,2024-02-15,5,high,fast
+112,1502,david ,25,Male, delhi ,250.5,Card,2024-03-15,1,low,slow
+113,1406,david ,30,Female,new york,250.5,Cash,2024-03-15,5,low,fast
+114,1573,bob,18,Female,bangalore,250.5,Card,2024-02-15,5,low,fast
+115,1727, frank,25,Male, delhi ,450.0,Upi,2024-03-15,2,high,slow
+116,1098,david ,25,Unspecified,mumbai,100.0,Upi,2024-01-12,5,low,fast
+117,1683,bob,25,Female, delhi ,350.25,Upi,2024-01-12,4,low,slow
+118,1725,david ,25,Male,mumbai,250.5,Net_Banking,2024-03-15,4,low,slow
+119,1960,david ,25,Female,pune,350.25,Unspecified,2024-02-15,4,low,slow
+120,1738, frank,35,Male, delhi ,450.0,Net_Banking,2024-01-12,0,high,slow
+121,1612,charlie,25,Male, delhi ,500.0,Upi,2024-02-15,0,high,slow
+122,1942,Unknown,25,Unspecified,mumbai,450.0,Upi,2024-02-15,1,high,slow
+123,1461,eve,25,Male,new york,100.0,Cash,2024-02-15,4,low,slow
+124,1768,alice,40,Male,new york,450.0,Unspecified,2024-02-15,3,high,slow
+125,1004,alice,25,Male,bangalore,250.5,Net_Banking,2024-01-12,1,low,slow
+126,1502,david ,25,Unspecified,unspecified,350.25,Unspecified,2024-02-15,4,low,slow
+127,1766,Unknown,40,Unspecified,mumbai,100.0,Net_Banking,2024-02-15,2,low,slow
+128,1397,david ,25,Unspecified,mumbai,350.25,Cash,2024-01-12,0,low,slow
+129,1870, frank,35,Male,mumbai,250.5,Unspecified,2024-02-15,15,low,fast
+130,1794,Unknown,25,Male,unspecified,350.25,Unspecified,2024-02-15,3,low,slow
+131,1206,Unknown,25,Male,new york,100.0,Unspecified,2024-02-15,15,low,fast
+132,1014,charlie,18,Female,unspecified,250.5,Card,2024-01-12,0,low,slow
+133,1857,Unknown,40,Female,unspecified,250.5,Card,2024-02-15,4,low,slow
+134,1553,Unknown,25,Unspecified,new york,999.0,Cash,2024-02-15,4,high,slow
+135,1460,charlie,25,Male,unspecified,0.0,Net_Banking,2024-01-12,15,,fast
+136,1574,Unknown,40,Female,bangalore,350.25,Net_Banking,2024-02-15,4,low,slow
+137,1863,eve,25,Male, delhi ,250.5,Cash,2024-01-12,5,low,fast
+138,1240,bob,40,Male,pune,350.25,Unspecified,2024-01-12,2,low,slow
+139,1563,bob,25,Male,pune,100.0,Cash,2024-01-12,4,low,slow
+140,1095, frank,25,Unspecified,unspecified,100.0,Card,2024-01-12,15,low,fast
+141,1733,bob,25,Male,unspecified,450.0,Upi,2024-01-12,0,high,slow
+142,1406,Unknown,25,Unspecified,bangalore,450.0,Unspecified,2024-02-15,2,high,slow
+143,1230,Unknown,25,Female,pune,350.25,Net_Banking,2024-03-15,4,low,slow
+144,1748,eve,40,Male,unspecified,999.0,Card,2024-02-15,0,high,slow
+145,1170,alice,25,Unspecified,bangalore,250.5,Unspecified,2024-03-15,4,low,slow
+146,1540,Unknown,18,Unspecified,mumbai,0.0,Net_Banking,2024-02-15,5,,fast
+147,1035,alice,25,Unspecified,unspecified,350.25,Unspecified,2024-02-15,15,low,fast
+148,1524,bob,40,Female, delhi ,999.0,Unspecified,2024-01-12,4,high,slow
+149,1159, frank,25,Female,mumbai,500.0,Unspecified,2024-02-15,4,high,slow
+150,1838,eve,25,Unspecified,unspecified,350.25,Unspecified,2024-01-12,4,low,slow
+151,1242,charlie,25,Male,unspecified,250.5,Card,2024-02-15,4,low,slow
+152,1085,Unknown,18,Male,unspecified,100.0,Unspecified,2024-01-12,1,low,slow
+153,1795,bob,30,Female,pune,100.0,Card,2024-01-12,4,low,slow
+154,1577,eve,40,Unspecified,unspecified,350.25,Unspecified,2024-03-15,0,low,slow
+155,1681,alice,35,Unspecified,mumbai,450.0,Net_Banking,2024-02-15,3,high,slow
+156,1556,Unknown,30,Female,unspecified,999.0,Unspecified,2024-03-15,4,high,slow
+157,1573,charlie,25,Unspecified,unspecified,999.0,Unspecified,2024-01-12,4,high,slow
+158,1952,charlie,40,Female,bangalore,100.0,Upi,2024-02-15,4,low,slow
+159,1645,alice,25,Male,bangalore,350.25,Unspecified,2024-03-15,2,low,slow
+160,1027,alice,25,Female,unspecified,350.25,Net_Banking,2024-02-15,4,low,slow
+161,1619,bob,35,Male,bangalore,250.5,Net_Banking,2024-01-12,3,low,slow
+162,1555,alice,18,Female,new york,0.0,Net_Banking,2024-02-15,0,,slow
+163,1339,charlie,25,Male,pune,0.0,Upi,2024-03-15,1,,slow
+164,1330,Unknown,30,Male,unspecified,350.25,Cash,2024-01-12,15,low,fast
+165,1505,eve,25,Female, delhi ,100.0,Net_Banking,2024-03-15,15,low,fast
+166,1224,eve,40,Unspecified,bangalore,450.0,Net_Banking,2024-02-15,0,high,slow
+167,1376,Unknown,18,Unspecified,mumbai,350.25,Cash,2024-01-12,2,low,slow
+168,1282,charlie,25,Female,unspecified,999.0,Net_Banking,2024-01-12,3,high,slow
+169,1957,Unknown,35,Female,mumbai,250.5,Upi,2024-02-15,5,low,fast
+170,1632,eve,35,Male, delhi ,450.0,Net_Banking,2024-02-15,15,high,fast
+171,1627,Unknown,30,Male,pune,999.0,Upi,2024-02-15,0,high,slow
+172,1972,Unknown,30,Male,bangalore,0.0,Card,2024-02-15,4,,slow
+173,1744,Unknown,35,Male,bangalore,350.25,Unspecified,2024-02-15,0,low,slow
+174,1258,bob,25,Unspecified, delhi ,100.0,Cash,2024-02-15,15,low,fast
+175,1358,bob,18,Male,new york,0.0,Net_Banking,2024-02-15,15,,fast
+176,1709,charlie,25,Unspecified,pune,350.25,Upi,2024-03-15,4,low,slow
+177,1455,alice,25,Unspecified,unspecified,250.5,Net_Banking,2024-02-15,3,low,slow
+178,1410,Unknown,25,Unspecified, delhi ,350.25,Cash,2024-02-15,0,low,slow
+179,1648,Unknown,25,Male,unspecified,450.0,Card,2024-03-15,15,high,fast
+180,1317,alice,25,Female,unspecified,450.0,Upi,2024-03-15,2,high,slow
+181,1676,Unknown,25,Unspecified,bangalore,250.5,Unspecified,2024-03-15,2,low,slow
+182,1224,alice,40,Male,unspecified,500.0,Unspecified,2024-03-15,0,high,slow
+183,1818,charlie,25,Female,mumbai,999.0,Unspecified,2024-02-15,4,high,slow
+184,1233,Unknown,25,Male,unspecified,999.0,Unspecified,2024-03-15,15,high,fast
+185,1663,david ,18,Unspecified,pune,450.0,Card,2024-02-15,3,high,slow
+186,1974,Unknown,18,Female,bangalore,350.25,Unspecified,2024-03-15,3,low,slow
+187,1826,alice,25,Male, delhi ,100.0,Net_Banking,2024-02-15,4,low,slow
+188,1373,alice,25,Male,unspecified,350.25,Net_Banking,2024-03-15,4,low,slow
+189,1607, frank,25,Male,unspecified,500.0,Net_Banking,2024-03-15,4,high,slow
+190,1471,bob,25,Female,pune,999.0,Upi,2024-02-15,1,high,slow
+191,1691,eve,30,Male,pune,500.0,Card,2024-01-12,3,high,slow
+192,1112, frank,30,Female,new york,250.5,Cash,2024-02-15,2,low,slow
+193,1829,eve,25,Unspecified,mumbai,999.0,Upi,2024-02-15,15,high,fast
+194,1496,bob,40,Male,pune,100.0,Upi,2024-02-15,4,low,slow
+195,1441,bob,30,Female,bangalore,350.25,Net_Banking,2024-02-15,4,low,slow
+196,1267,Unknown,25,Male, delhi ,450.0,Card,2024-02-15,4,high,slow
+197,1509,Unknown,30,Male,bangalore,100.0,Unspecified,2024-01-12,5,low,fast
+198,1806,charlie,40,Unspecified, delhi ,500.0,Net_Banking,2024-02-15,3,high,slow
+199,1385,charlie,25,Female,pune,350.25,Card,2024-02-15,5,low,fast
+200,1386,bob,25,Male, delhi ,250.5,Unspecified,2024-02-15,5,low,fast
+201,1112,david ,18,Unspecified,new york,500.0,Net_Banking,2024-02-15,1,high,slow
+202,1612,alice,18,Unspecified,bangalore,450.0,Unspecified,2024-02-15,4,high,slow
+203,1624,Unknown,25,Female,unspecified,0.0,Unspecified,2024-02-15,2,,slow
+204,1951,david ,25,Female,unspecified,350.25,Cash,2024-01-12,4,low,slow
+205,1698,Unknown,18,Female,new york,0.0,Unspecified,2024-02-15,1,,slow
+206,1001,charlie,30,Male,bangalore,100.0,Upi,2024-02-15,5,low,fast
+207,1219,alice,40,Female,pune,350.25,Card,2024-03-15,4,low,slow
+208,1565, frank,18,Female, delhi ,450.0,Unspecified,2024-02-15,15,high,fast
+209,1996,eve,40,Unspecified,unspecified,0.0,Unspecified,2024-02-15,15,,fast
+210,1402,Unknown,25,Female, delhi ,450.0,Card,2024-03-15,2,high,slow
+211,1637,Unknown,25,Female,pune,999.0,Net_Banking,2024-02-15,15,high,fast
+212,1129,bob,25,Unspecified,new york,999.0,Net_Banking,2024-02-15,4,high,slow
+213,1052,charlie,25,Male,mumbai,350.25,Net_Banking,2024-02-15,4,low,slow
+214,1683,charlie,25,Unspecified,unspecified,350.25,Net_Banking,2024-02-15,5,low,fast
+215,1729,eve,25,Unspecified,new york,999.0,Card,2024-02-15,0,high,slow
+216,1671,Unknown,25,Unspecified,bangalore,350.25,Unspecified,2024-02-15,5,low,fast
+217,1709, frank,25,Unspecified,unspecified,999.0,Upi,2024-02-15,3,high,slow
+218,1246,bob,18,Female,mumbai,100.0,Card,2024-02-15,1,low,slow
+219,1438,bob,25,Female,unspecified,500.0,Card,2024-02-15,2,high,slow
+220,1202,bob,40,Unspecified, delhi ,0.0,Unspecified,2024-03-15,4,,slow
+221,1122,Unknown,25,Female,unspecified,250.5,Unspecified,2024-01-12,1,low,slow
+222,1766,charlie,40,Unspecified,unspecified,450.0,Upi,2024-03-15,1,high,slow
+223,1279,eve,25,Unspecified,unspecified,450.0,Net_Banking,2024-02-15,1,high,slow
+224,1836,bob,30,Male,new york,350.25,Upi,2024-02-15,1,low,slow
+225,1609,alice,25,Unspecified,unspecified,350.25,Net_Banking,2024-03-15,3,low,slow
+226,1197,Unknown,25,Male, delhi ,450.0,Net_Banking,2024-01-12,5,high,fast
+227,1906, frank,25,Unspecified, delhi ,0.0,Net_Banking,2024-02-15,4,,slow
+228,1510,eve,35,Male,mumbai,250.5,Cash,2024-02-15,0,low,slow
+229,1143,Unknown,30,Unspecified,unspecified,350.25,Unspecified,2024-03-15,2,low,slow
+230,1608,eve,25,Unspecified,mumbai,500.0,Upi,2024-02-15,4,high,slow
+231,1200,bob,25,Unspecified, delhi ,500.0,Card,2024-02-15,4,high,slow
+232,1123,charlie,25,Male,unspecified,999.0,Upi,2024-01-12,15,high,fast
+233,1325,Unknown,18,Female,unspecified,999.0,Cash,2024-03-15,2,high,slow
+234,1348,david ,30,Female,new york,450.0,Unspecified,2024-02-15,0,high,slow
+235,1770,bob,25,Male,unspecified,250.5,Cash,2024-01-12,4,low,slow
+236,1659, frank,30,Unspecified,mumbai,999.0,Upi,2024-02-15,4,high,slow
+237,1763,alice,40,Female,unspecified,350.25,Net_Banking,2024-02-15,4,low,slow
+238,1954,bob,25,Unspecified,bangalore,350.25,Net_Banking,2024-02-15,1,low,slow
+239,1402,david ,25,Male,mumbai,500.0,Unspecified,2024-02-15,15,high,fast
+240,1147,Unknown,18,Unspecified,mumbai,350.25,Upi,2024-02-15,15,low,fast
+241,1863,Unknown,35,Male, delhi ,999.0,Card,2024-02-15,4,high,slow
+242,1819,Unknown,25,Male,new york,350.25,Cash,2024-02-15,1,low,slow
+243,1488,Unknown,25,Male,bangalore,0.0,Card,2024-02-15,1,,slow
+244,1928,charlie,18,Female,unspecified,350.25,Net_Banking,2024-02-15,15,low,fast
+245,1935,charlie,25,Female,new york,250.5,Net_Banking,2024-01-12,5,low,fast
+246,1639, frank,25,Unspecified,unspecified,0.0,Net_Banking,2024-02-15,2,,slow
+247,1337,charlie,30,Female,bangalore,0.0,Net_Banking,2024-02-15,3,,slow
+248,1871,eve,25,Female,bangalore,0.0,Upi,2024-02-15,3,,slow
+249,1640,alice,25,Unspecified,bangalore,250.5,Card,2024-02-15,5,low,fast
+250,1778,eve,25,Female,new york,450.0,Net_Banking,2024-03-15,5,high,fast
+251,1952, frank,25,Female,bangalore,999.0,Card,2024-02-15,0,high,slow
+252,1472,eve,30,Male,new york,350.25,Cash,2024-02-15,0,low,slow
+253,1945,charlie,25,Female,bangalore,350.25,Card,2024-01-12,15,low,fast
+254,1414, frank,35,Male,unspecified,250.5,Net_Banking,2024-02-15,4,low,slow
+255,1989, frank,18,Unspecified,bangalore,450.0,Net_Banking,2024-02-15,4,high,slow
+256,1297,david ,40,Female,mumbai,100.0,Net_Banking,2024-02-15,1,low,slow
+257,1610, frank,25,Male,unspecified,100.0,Unspecified,2024-02-15,4,low,slow
+258,1763, frank,25,Male,bangalore,0.0,Upi,2024-01-12,4,,slow
+259,1143,alice,25,Male,pune,999.0,Upi,2024-02-15,3,high,slow
+260,1345,charlie,25,Female, delhi ,350.25,Cash,2024-03-15,2,low,slow
+261,1571,charlie,35,Male,bangalore,450.0,Net_Banking,2024-02-15,3,high,slow
+262,1880,charlie,40,Unspecified,unspecified,100.0,Card,2024-03-15,3,low,slow
+263,1001,Unknown,18,Male,mumbai,0.0,Cash,2024-02-15,15,,fast
+264,1896, frank,18,Male,unspecified,500.0,Cash,2024-03-15,5,high,fast
+265,1303,bob,30,Unspecified,pune,500.0,Unspecified,2024-02-15,5,high,fast
+266,1651,bob,25,Male,new york,450.0,Net_Banking,2024-03-15,1,high,slow
+267,1452,charlie,35,Unspecified,unspecified,0.0,Cash,2024-02-15,5,,fast
+268,1036,charlie,25,Male,unspecified,0.0,Net_Banking,2024-03-15,3,,slow
+269,1159,Unknown,40,Female,bangalore,100.0,Net_Banking,2024-03-15,5,low,fast
+270,1008,Unknown,25,Unspecified,new york,100.0,Net_Banking,2024-02-15,0,low,slow
+271,1232,bob,18,Unspecified,unspecified,0.0,Upi,2024-02-15,5,,fast
+272,1098,david ,40,Male,bangalore,250.5,Upi,2024-01-12,3,low,slow
+273,1658,bob,25,Female, delhi ,0.0,Net_Banking,2024-03-15,4,,slow
+274,1815,Unknown,18,Male,bangalore,350.25,Upi,2024-02-15,15,low,fast
+275,1207,Unknown,25,Unspecified,mumbai,0.0,Net_Banking,2024-03-15,1,,slow
+276,1403,Unknown,35,Male, delhi ,350.25,Upi,2024-02-15,5,low,fast
+277,1151,alice,25,Male,new york,999.0,Upi,2024-03-15,4,high,slow
+278,1053,Unknown,25,Unspecified,unspecified,999.0,Net_Banking,2024-03-15,4,high,slow
+279,1119,alice,40,Male,bangalore,250.5,Net_Banking,2024-02-15,4,low,slow
+280,1672,david ,40,Female,mumbai,250.5,Unspecified,2024-02-15,3,low,slow
+281,1919,bob,25,Unspecified,new york,500.0,Unspecified,2024-03-15,2,high,slow
+282,1419,bob,25,Male,pune,0.0,Net_Banking,2024-02-15,15,,fast
+283,1421,Unknown,25,Female,mumbai,350.25,Unspecified,2024-03-15,3,low,slow
+284,1103,charlie,25,Unspecified, delhi ,350.25,Net_Banking,2024-03-15,3,low,slow
+285,1253,bob,35,Unspecified,pune,0.0,Card,2024-02-15,5,,fast
+286,1226,alice,35,Male,pune,450.0,Net_Banking,2024-02-15,5,high,fast
+287,1111,eve,25,Male,unspecified,999.0,Unspecified,2024-02-15,4,high,slow
+288,1472,Unknown,35,Unspecified,mumbai,450.0,Net_Banking,2024-01-12,4,high,slow
+289,1152, frank,40,Female,unspecified,100.0,Net_Banking,2024-02-15,4,low,slow
+290,1860,Unknown,30,Unspecified,new york,450.0,Cash,2024-02-15,4,high,slow
+291,1913,charlie,25,Male,unspecified,350.25,Upi,2024-03-15,4,low,slow
+292,1895,eve,25,Female,mumbai,500.0,Unspecified,2024-03-15,15,high,fast
+293,1877, frank,25,Female,unspecified,0.0,Unspecified,2024-02-15,4,,slow
+294,1337,Unknown,25,Unspecified,mumbai,999.0,Net_Banking,2024-02-15,4,high,slow
+295,1705,alice,25,Female,unspecified,0.0,Unspecified,2024-02-15,2,,slow
+296,1821,bob,25,Unspecified, delhi ,350.25,Cash,2024-03-15,2,low,slow
+297,1162,david ,18,Unspecified,pune,250.5,Upi,2024-01-12,0,low,slow
+298,1719,alice,25,Male,mumbai,999.0,Net_Banking,2024-02-15,15,high,fast
+299,1956, frank,30,Unspecified,unspecified,450.0,Card,2024-03-15,5,high,fast
+300,1160,Unknown,40,Male, delhi ,100.0,Net_Banking,2024-02-15,0,low,slow
+301,1579,david ,40,Male,new york,999.0,Cash,2024-02-15,1,high,slow
+302,1276,eve,18,Male,new york,500.0,Upi,2024-03-15,0,high,slow
+303,1815, frank,25,Unspecified,unspecified,350.25,Unspecified,2024-02-15,4,low,slow
+304,1915,Unknown,30,Male,new york,100.0,Net_Banking,2024-02-15,0,low,slow
+305,1503,Unknown,35,Male,new york,500.0,Net_Banking,2024-02-15,3,high,slow
+306,1895,bob,25,Unspecified,mumbai,250.5,Card,2024-02-15,4,low,slow
+307,1391,david ,18,Male,unspecified,999.0,Net_Banking,2024-01-12,2,high,slow
+308,1134,eve,25,Unspecified,bangalore,0.0,Card,2024-02-15,2,,slow
+309,1194,Unknown,25,Female,pune,350.25,Net_Banking,2024-02-15,15,low,fast
+310,1400, frank,30,Male,mumbai,0.0,Upi,2024-01-12,0,,slow
+311,1639,bob,25,Male,new york,500.0,Card,2024-03-15,4,high,slow
+312,1032,Unknown,25,Female,pune,450.0,Cash,2024-03-15,2,high,slow
+313,1687,bob,18,Female,unspecified,0.0,Cash,2024-02-15,0,,slow
+314,1954,charlie,30,Male,new york,0.0,Net_Banking,2024-03-15,4,,slow
+315,1882, frank,30,Female,new york,450.0,Net_Banking,2024-02-15,4,high,slow
+316,1021,charlie,25,Male,mumbai,350.25,Net_Banking,2024-02-15,4,low,slow
+317,1749,eve,25,Unspecified,bangalore,500.0,Unspecified,2024-02-15,0,high,slow
+318,1669,eve,35,Unspecified,mumbai,999.0,Unspecified,2024-01-12,2,high,slow
+319,1037,Unknown,40,Unspecified, delhi ,0.0,Net_Banking,2024-03-15,2,,slow
+320,1229,charlie,25,Female,new york,250.5,Unspecified,2024-01-12,0,low,slow
+321,1364,eve,25,Male,pune,999.0,Cash,2024-01-12,0,high,slow
+322,1562,david ,25,Unspecified,unspecified,350.25,Cash,2024-02-15,0,low,slow
+323,1775,bob,30,Male,new york,350.25,Cash,2024-01-12,4,low,slow
+324,1282,bob,25,Female,mumbai,450.0,Net_Banking,2024-02-15,2,high,slow
+325,1026,Unknown,25,Male,unspecified,350.25,Unspecified,2024-01-12,4,low,slow
+326,1225,charlie,30,Unspecified,unspecified,0.0,Unspecified,2024-02-15,15,,fast
+327,1276,charlie,25,Unspecified,unspecified,350.25,Net_Banking,2024-02-15,2,low,slow
+328,1797,eve,25,Female,mumbai,999.0,Cash,2024-01-12,5,high,fast
+329,1608, frank,25,Unspecified,new york,350.25,Card,2024-02-15,0,low,slow
+330,1283,alice,25,Female,mumbai,450.0,Unspecified,2024-02-15,3,high,slow
+331,1959,Unknown,25,Unspecified,unspecified,100.0,Unspecified,2024-02-15,4,low,slow
+332,1480,david ,40,Male,mumbai,500.0,Net_Banking,2024-01-12,0,high,slow
+333,1452,bob,25,Male,unspecified,450.0,Net_Banking,2024-03-15,5,high,fast
+334,1828,eve,25,Female,new york,100.0,Net_Banking,2024-03-15,4,low,slow
+335,1815,alice,25,Unspecified,mumbai,350.25,Upi,2024-02-15,2,low,slow
+336,1191,bob,25,Unspecified,unspecified,100.0,Net_Banking,2024-02-15,15,low,fast
+337,1048,Unknown,40,Female,pune,999.0,Net_Banking,2024-02-15,4,high,slow
+338,1511,david ,25,Female,unspecified,999.0,Net_Banking,2024-02-15,2,high,slow
+339,1016,alice,25,Female,bangalore,250.5,Unspecified,2024-02-15,3,low,slow
+340,1219,Unknown,40,Male,unspecified,450.0,Unspecified,2024-01-12,4,high,slow
+341,1157,david ,40,Male,bangalore,450.0,Net_Banking,2024-02-15,4,high,slow
+342,1476,alice,18,Unspecified, delhi ,450.0,Unspecified,2024-02-15,3,high,slow
+343,1045,david ,25,Unspecified,mumbai,500.0,Cash,2024-02-15,0,high,slow
+344,1517,charlie,30,Unspecified, delhi ,350.25,Net_Banking,2024-02-15,2,low,slow
+345,1098,alice,25,Unspecified,pune,350.25,Unspecified,2024-03-15,15,low,fast
+346,1891,Unknown,30,Female,new york,250.5,Card,2024-02-15,0,low,slow
+347,1279,david ,25,Male,bangalore,999.0,Unspecified,2024-01-12,3,high,slow
+348,1496,Unknown,25,Unspecified,pune,350.25,Cash,2024-02-15,5,low,fast
+349,1301,bob,18,Female,bangalore,500.0,Upi,2024-03-15,15,high,fast
+350,1098, frank,30,Female,unspecified,999.0,Cash,2024-03-15,2,high,slow
+351,1992,david ,18,Female,unspecified,500.0,Upi,2024-01-12,2,high,slow
+352,1115,charlie,25,Male,pune,100.0,Unspecified,2024-03-15,2,low,slow
+353,1190,bob,25,Unspecified,unspecified,999.0,Unspecified,2024-03-15,4,high,slow
+354,1252,alice,25,Unspecified,bangalore,250.5,Net_Banking,2024-02-15,2,low,slow
+355,1980,Unknown,25,Male,bangalore,100.0,Unspecified,2024-02-15,1,low,slow
+356,1927,Unknown,25,Unspecified,unspecified,999.0,Unspecified,2024-02-15,4,high,slow
+357,1982,david ,40,Female, delhi ,0.0,Net_Banking,2024-01-12,5,,fast
+358,1160,bob,25,Male,unspecified,350.25,Unspecified,2024-01-12,5,low,fast
+359,1255, frank,35,Unspecified,new york,999.0,Net_Banking,2024-02-15,15,high,fast
+360,1322,bob,25,Unspecified,mumbai,250.5,Cash,2024-02-15,15,low,fast
+361,1792,charlie,40,Unspecified,new york,350.25,Unspecified,2024-02-15,4,low,slow
+362,1734,Unknown,25,Female,mumbai,350.25,Card,2024-01-12,2,low,slow
+363,1565,Unknown,25,Male,new york,450.0,Upi,2024-02-15,1,high,slow
+364,1569,alice,30,Male,unspecified,350.25,Card,2024-02-15,4,low,slow
+365,1871,Unknown,25,Male,bangalore,999.0,Unspecified,2024-03-15,3,high,slow
+366,1685,Unknown,25,Female,new york,500.0,Cash,2024-02-15,3,high,slow
+367,1791,Unknown,25,Unspecified,mumbai,350.25,Cash,2024-02-15,0,low,slow
+368,1625,Unknown,40,Unspecified,bangalore,100.0,Upi,2024-02-15,2,low,slow
+369,1942,eve,25,Unspecified,unspecified,450.0,Unspecified,2024-02-15,15,high,fast
+370,1853, frank,35,Unspecified,pune,0.0,Cash,2024-03-15,5,,fast
+371,1662,david ,25,Unspecified,bangalore,100.0,Cash,2024-02-15,0,low,slow
+372,1638,charlie,25,Male,new york,100.0,Net_Banking,2024-02-15,3,low,slow
+373,1154,Unknown,25,Unspecified, delhi ,100.0,Unspecified,2024-02-15,2,low,slow
+374,1489,Unknown,18,Female,mumbai,500.0,Cash,2024-02-15,0,high,slow
+375,1385,Unknown,25,Unspecified, delhi ,500.0,Upi,2024-02-15,2,high,slow
+376,1985,eve,18,Female, delhi ,999.0,Net_Banking,2024-03-15,3,high,slow
+377,1103,eve,25,Male, delhi ,350.25,Unspecified,2024-01-12,3,low,slow
+378,1392,eve,30,Female,bangalore,999.0,Cash,2024-03-15,3,high,slow
+379,1245,charlie,30,Unspecified,bangalore,0.0,Cash,2024-02-15,4,,slow
+380,1038, frank,25,Male,new york,350.25,Net_Banking,2024-02-15,5,low,fast
+381,1476,Unknown,25,Female,bangalore,0.0,Cash,2024-01-12,3,,slow
+382,1681,david ,25,Male,unspecified,350.25,Cash,2024-02-15,15,low,fast
+383,1758, frank,40,Male,unspecified,350.25,Unspecified,2024-02-15,4,low,slow
+384,1866,Unknown,35,Male,new york,250.5,Unspecified,2024-02-15,5,low,fast
+385,1817,bob,35,Male,pune,500.0,Unspecified,2024-02-15,1,high,slow
+386,1920,david ,35,Male,pune,350.25,Upi,2024-02-15,0,low,slow
+387,1407,david ,25,Male,unspecified,0.0,Unspecified,2024-02-15,0,,slow
+388,1524,charlie,35,Male,mumbai,350.25,Cash,2024-02-15,4,low,slow
+389,1827,david ,25,Male,mumbai,999.0,Unspecified,2024-02-15,5,high,fast
+390,1505,eve,18,Female,bangalore,999.0,Unspecified,2024-03-15,4,high,slow
+391,1824,Unknown,18,Unspecified,unspecified,250.5,Unspecified,2024-02-15,4,low,slow
+392,1035,alice,25,Female,bangalore,250.5,Net_Banking,2024-02-15,3,low,slow
+393,1019, frank,18,Female,pune,350.25,Cash,2024-02-15,2,low,slow
+394,1775,charlie,25,Unspecified,unspecified,500.0,Card,2024-01-12,3,high,slow
+395,1399,alice,25,Unspecified, delhi ,250.5,Cash,2024-02-15,2,low,slow
+396,1653,bob,25,Male,mumbai,100.0,Net_Banking,2024-01-12,4,low,slow
+397,1971,eve,25,Unspecified, delhi ,500.0,Cash,2024-02-15,1,high,slow
+398,1882,charlie,35,Unspecified,unspecified,999.0,Net_Banking,2024-02-15,4,high,slow
+399,1470, frank,25,Female,new york,500.0,Unspecified,2024-02-15,4,high,slow
+400,1142,bob,30,Male,bangalore,350.25,Unspecified,2024-01-12,4,low,slow
+401,1091,charlie,35,Female,new york,100.0,Net_Banking,2024-02-15,15,low,fast
+402,1833,david ,25,Female,unspecified,350.25,Net_Banking,2024-02-15,0,low,slow
+403,1799,Unknown,18,Unspecified,bangalore,999.0,Upi,2024-03-15,4,high,slow
+404,1958,bob,30,Female,unspecified,250.5,Unspecified,2024-01-12,4,low,slow
+405,1853,Unknown,25,Unspecified,bangalore,500.0,Cash,2024-02-15,1,high,slow
+406,1050,david ,25,Female,unspecified,250.5,Net_Banking,2024-02-15,5,low,fast
+407,1697,david ,25,Male,unspecified,500.0,Net_Banking,2024-01-12,0,high,slow
+408,1574,alice,25,Unspecified,unspecified,350.25,Unspecified,2024-02-15,2,low,slow
+409,1189,david ,25,Unspecified, delhi ,350.25,Cash,2024-02-15,4,low,slow
+410,1124,alice,35,Female,new york,350.25,Cash,2024-03-15,3,low,slow
+411,1149,david ,18,Unspecified,bangalore,999.0,Upi,2024-02-15,4,high,slow
+412,1313,eve,30,Unspecified, delhi ,100.0,Card,2024-02-15,3,low,slow
+413,1569,alice,25,Unspecified,unspecified,450.0,Unspecified,2024-02-15,2,high,slow
+414,1691, frank,25,Unspecified,pune,100.0,Card,2024-02-15,1,low,slow
+415,1681,Unknown,35,Female,unspecified,350.25,Cash,2024-03-15,5,low,fast
+416,1837,Unknown,25,Unspecified,pune,0.0,Upi,2024-02-15,2,,slow
+417,1782,Unknown,35,Male,unspecified,0.0,Upi,2024-01-12,4,,slow
+418,1443,david ,25,Male,unspecified,0.0,Unspecified,2024-02-15,2,,slow
+419,1612,Unknown,30,Female,mumbai,450.0,Card,2024-03-15,0,high,slow
+420,1992,charlie,18,Male,bangalore,500.0,Cash,2024-01-12,3,high,slow
+421,1052,alice,40,Male,unspecified,350.25,Card,2024-02-15,3,low,slow
+422,1571,Unknown,40,Female,mumbai,100.0,Net_Banking,2024-01-12,3,low,slow
+423,1619,bob,25,Unspecified,pune,450.0,Unspecified,2024-01-12,4,high,slow
+424,1004, frank,35,Female, delhi ,999.0,Net_Banking,2024-02-15,2,high,slow
+425,1195,Unknown,30,Unspecified, delhi ,350.25,Net_Banking,2024-02-15,5,low,fast
+426,1773,eve,25,Female,unspecified,500.0,Upi,2024-01-12,3,high,slow
+427,1876,bob,40,Male,new york,350.25,Unspecified,2024-02-15,5,low,fast
+428,1991,david ,30,Female, delhi ,100.0,Cash,2024-02-15,4,low,slow
+429,1883,bob,25,Male,new york,250.5,Cash,2024-02-15,3,low,slow
+430,1349,Unknown,18,Male,bangalore,350.25,Cash,2024-02-15,5,low,fast
+431,1046, frank,25,Unspecified,new york,350.25,Upi,2024-01-12,5,low,fast
+432,1822,david ,25,Female,mumbai,450.0,Cash,2024-03-15,5,high,fast
+433,1935,alice,30,Unspecified,mumbai,350.25,Net_Banking,2024-02-15,2,low,slow
+434,1819,eve,18,Unspecified,unspecified,350.25,Upi,2024-02-15,5,low,fast
+435,1655,Unknown,25,Male,unspecified,350.25,Unspecified,2024-03-15,3,low,slow
+436,1369,alice,25,Unspecified, delhi ,999.0,Unspecified,2024-03-15,1,high,slow
+437,1635,alice,25,Unspecified,unspecified,500.0,Upi,2024-02-15,15,high,fast
+438,1669,eve,25,Male,unspecified,350.25,Net_Banking,2024-02-15,1,low,slow
+439,1658, frank,18,Female,new york,450.0,Upi,2024-01-12,4,high,slow
+440,1656,Unknown,40,Male,bangalore,0.0,Upi,2024-03-15,3,,slow
+441,1830,charlie,25,Male,mumbai,500.0,Cash,2024-03-15,15,high,fast
+442,1786,Unknown,25,Unspecified,unspecified,250.5,Net_Banking,2024-03-15,15,low,fast
+443,1603,eve,35,Male, delhi ,0.0,Unspecified,2024-02-15,2,,slow
+444,1950,Unknown,30,Male,bangalore,999.0,Net_Banking,2024-03-15,2,high,slow
+445,1345,Unknown,40,Female,new york,999.0,Unspecified,2024-02-15,1,high,slow
+446,1473,david ,25,Male,mumbai,500.0,Unspecified,2024-02-15,0,high,slow
+447,1116,bob,30,Female,pune,250.5,Upi,2024-01-12,3,low,slow
+448,1829,Unknown,35,Female,bangalore,500.0,Cash,2024-01-12,2,high,slow
+449,1790,Unknown,25,Male,bangalore,100.0,Net_Banking,2024-02-15,3,low,slow
+450,1392,charlie,18,Female,unspecified,250.5,Unspecified,2024-02-15,1,low,slow
+451,1907,alice,35,Male,mumbai,250.5,Unspecified,2024-02-15,0,low,slow
+452,1640,bob,35,Female,unspecified,450.0,Upi,2024-02-15,4,high,slow
+453,1057,david ,25,Female, delhi ,500.0,Card,2024-02-15,1,high,slow
+454,1512,charlie,25,Unspecified,bangalore,450.0,Upi,2024-02-15,3,high,slow
+455,1095, frank,40,Male,unspecified,250.5,Net_Banking,2024-02-15,15,low,fast
+456,1637,Unknown,40,Unspecified,bangalore,0.0,Net_Banking,2024-02-15,4,,slow
+457,1117,david ,25,Unspecified,mumbai,500.0,Cash,2024-01-12,0,high,slow
+458,1487, frank,25,Male,unspecified,450.0,Unspecified,2024-01-12,2,high,slow
+459,1236,charlie,18,Female, delhi ,250.5,Net_Banking,2024-02-15,3,low,slow
+460,1896,Unknown,40,Unspecified,mumbai,999.0,Net_Banking,2024-02-15,5,high,fast
+461,1271,Unknown,25,Unspecified,new york,500.0,Upi,2024-02-15,1,high,slow
+462,1188,david ,25,Male, delhi ,350.25,Net_Banking,2024-03-15,4,low,slow
+463,1703,charlie,25,Unspecified,mumbai,500.0,Unspecified,2024-03-15,4,high,slow
+464,1446,Unknown,25,Female,mumbai,350.25,Cash,2024-02-15,3,low,slow
+465,1580,Unknown,18,Female, delhi ,350.25,Net_Banking,2024-03-15,1,low,slow
+466,1860,charlie,25,Male,pune,350.25,Net_Banking,2024-02-15,2,low,slow
+467,1962,Unknown,25,Male,new york,350.25,Net_Banking,2024-02-15,1,low,slow
+468,1153,Unknown,30,Male,bangalore,350.25,Upi,2024-02-15,3,low,slow
+469,1434,alice,25,Female,unspecified,100.0,Unspecified,2024-02-15,3,low,slow
+470,1996,Unknown,18,Male,pune,100.0,Card,2024-01-12,4,low,slow
+471,1085,bob,25,Female, delhi ,350.25,Cash,2024-02-15,1,low,slow
+472,1973, frank,35,Female,bangalore,0.0,Net_Banking,2024-02-15,2,,slow
+473,1219, frank,18,Male,unspecified,999.0,Upi,2024-02-15,4,high,slow
+474,1068,eve,25,Unspecified,mumbai,0.0,Card,2024-03-15,2,,slow
+475,1093,Unknown,25,Unspecified, delhi ,100.0,Unspecified,2024-02-15,1,low,slow
+476,1749, frank,18,Male,bangalore,100.0,Unspecified,2024-01-12,5,low,fast
+477,1957,charlie,25,Unspecified,pune,350.25,Net_Banking,2024-03-15,2,low,slow
+478,1452,Unknown,18,Male,pune,350.25,Cash,2024-02-15,2,low,slow
+479,1203,Unknown,18,Male,unspecified,100.0,Net_Banking,2024-01-12,4,low,slow
+480,1911,alice,25,Male,new york,350.25,Net_Banking,2024-02-15,15,low,fast
+481,1217,eve,18,Male,bangalore,350.25,Unspecified,2024-02-15,5,low,fast
+482,1473,eve,35,Male,bangalore,500.0,Unspecified,2024-02-15,3,high,slow
+483,1431,eve,25,Female,new york,350.25,Unspecified,2024-02-15,4,low,slow
+484,1611,alice,25,Male,pune,450.0,Unspecified,2024-01-12,3,high,slow
+485,1733,eve,25,Unspecified,mumbai,450.0,Net_Banking,2024-01-12,2,high,slow
+486,1356,bob,25,Female,new york,450.0,Net_Banking,2024-02-15,0,high,slow
+487,1022,Unknown,25,Male,pune,500.0,Net_Banking,2024-03-15,2,high,slow
+488,1761,Unknown,25,Female,unspecified,250.5,Card,2024-03-15,2,low,slow
+489,1521, frank,25,Female,pune,350.25,Unspecified,2024-02-15,0,low,slow
+490,1836,charlie,18,Unspecified,unspecified,450.0,Cash,2024-02-15,4,high,slow
+491,1801,charlie,25,Male,new york,450.0,Card,2024-02-15,3,high,slow
+492,1179,Unknown,30,Unspecified,unspecified,0.0,Unspecified,2024-01-12,15,,fast
+493,1222,Unknown,25,Female,unspecified,500.0,Net_Banking,2024-01-12,15,high,fast
+494,1761,eve,25,Male,bangalore,350.25,Cash,2024-02-15,3,low,slow
+495,1441, frank,25,Female,bangalore,350.25,Unspecified,2024-03-15,15,low,fast
+496,1768, frank,25,Unspecified,new york,0.0,Net_Banking,2024-03-15,4,,slow
+497,1324,david ,25,Unspecified,pune,999.0,Net_Banking,2024-03-15,3,high,slow
+498,1791,Unknown,25,Male,bangalore,250.5,Net_Banking,2024-01-12,4,low,slow
+499,1335,alice,35,Female,unspecified,450.0,Card,2024-02-15,15,high,fast
+500,1758,david ,25,Unspecified,pune,350.25,Card,2024-02-15,2,low,slow
+501,1496,eve,25,Unspecified, delhi ,350.25,Cash,2024-02-15,2,low,slow
+502,1987,charlie,35,Male,new york,250.5,Cash,2024-02-15,15,low,fast
+503,1895,david ,35,Male,unspecified,250.5,Upi,2024-02-15,15,low,fast
+504,1474,Unknown,25,Male, delhi ,250.5,Net_Banking,2024-03-15,4,low,slow
+505,1663,alice,25,Unspecified, delhi ,999.0,Upi,2024-01-12,2,high,slow
+506,1907,Unknown,30,Unspecified, delhi ,100.0,Upi,2024-03-15,4,low,slow
+507,1689,Unknown,25,Unspecified,mumbai,450.0,Card,2024-03-15,1,high,slow
+508,1674,charlie,25,Male,unspecified,100.0,Card,2024-03-15,4,low,slow
+509,1379,eve,25,Male,unspecified,350.25,Cash,2024-01-12,1,low,slow
+510,1544,alice,25,Unspecified,unspecified,100.0,Upi,2024-02-15,0,low,slow
+511,1690,Unknown,25,Unspecified,unspecified,250.5,Card,2024-03-15,3,low,slow
+512,1426,bob,30,Female, delhi ,0.0,Unspecified,2024-02-15,15,,fast
+513,1612,bob,25,Unspecified, delhi ,250.5,Unspecified,2024-03-15,5,low,fast
+514,1267,Unknown,30,Male,unspecified,250.5,Card,2024-01-12,4,low,slow
+515,1576,bob,35,Unspecified,unspecified,350.25,Unspecified,2024-02-15,0,low,slow
+516,1841,Unknown,40,Male,new york,350.25,Net_Banking,2024-03-15,5,low,fast
+517,1555,eve,30,Unspecified,unspecified,250.5,Unspecified,2024-02-15,2,low,slow
+518,1284,eve,25,Female,mumbai,500.0,Net_Banking,2024-02-15,0,high,slow
+519,1011,Unknown,25,Unspecified,pune,350.25,Cash,2024-03-15,5,low,fast
+520,1606, frank,30,Male,unspecified,0.0,Unspecified,2024-02-15,15,,fast
+521,1897, frank,40,Male, delhi ,100.0,Net_Banking,2024-02-15,4,low,slow
+522,1498,Unknown,25,Female, delhi ,0.0,Net_Banking,2024-02-15,15,,fast
+523,1753, frank,25,Female, delhi ,450.0,Upi,2024-01-12,2,high,slow
+524,1034,Unknown,30,Male,mumbai,999.0,Unspecified,2024-01-12,4,high,slow
+525,1726,Unknown,25,Male, delhi ,100.0,Card,2024-02-15,1,low,slow
+526,1848,eve,30,Male,new york,100.0,Unspecified,2024-02-15,0,low,slow
+527,1089,david ,30,Female,bangalore,999.0,Net_Banking,2024-03-15,4,high,slow
+528,1604,Unknown,18,Male,unspecified,100.0,Unspecified,2024-02-15,0,low,slow
+529,1969,charlie,18,Female,unspecified,250.5,Unspecified,2024-03-15,15,low,fast
+530,1601,eve,40,Male,pune,450.0,Unspecified,2024-02-15,4,high,slow
+531,1417,charlie,25,Male,new york,450.0,Upi,2024-01-12,4,high,slow
+532,1616,david ,35,Female,bangalore,250.5,Cash,2024-02-15,1,low,slow
+533,1902,david ,40,Male,pune,350.25,Cash,2024-01-12,1,low,slow
+534,1195,bob,35,Unspecified,new york,999.0,Unspecified,2024-02-15,15,high,fast
+535,1825,charlie,35,Male,bangalore,0.0,Cash,2024-02-15,4,,slow
+536,1625,Unknown,25,Unspecified,pune,100.0,Net_Banking,2024-02-15,3,low,slow
+537,1492,david ,18,Unspecified,bangalore,350.25,Upi,2024-03-15,0,low,slow
+538,1074,charlie,30,Male,unspecified,500.0,Net_Banking,2024-01-12,0,high,slow
+539,1412,Unknown,25,Female,unspecified,500.0,Card,2024-02-15,5,high,fast
+540,1375,bob,35,Unspecified,unspecified,450.0,Net_Banking,2024-02-15,2,high,slow
+541,1419, frank,25,Female,unspecified,999.0,Net_Banking,2024-01-12,4,high,slow
+542,1728,Unknown,40,Female,bangalore,0.0,Cash,2024-02-15,4,,slow
+543,1276,Unknown,25,Female,new york,100.0,Upi,2024-03-15,4,low,slow
+544,1760, frank,35,Unspecified,unspecified,250.5,Card,2024-02-15,5,low,fast
+545,1675,eve,25,Female,new york,350.25,Cash,2024-02-15,15,low,fast
+546,1393,eve,25,Female,new york,250.5,Card,2024-01-12,4,low,slow
+547,1868,bob,35,Unspecified,bangalore,0.0,Net_Banking,2024-02-15,5,,fast
+548,1191,david ,25,Male, delhi ,999.0,Unspecified,2024-03-15,4,high,slow
+549,1738,bob,30,Female,unspecified,100.0,Upi,2024-03-15,5,low,fast
+550,1688,Unknown,30,Male, delhi ,500.0,Net_Banking,2024-02-15,1,high,slow
+551,1098, frank,25,Unspecified,new york,350.25,Upi,2024-03-15,2,low,slow
+552,1977,bob,30,Male,unspecified,350.25,Net_Banking,2024-03-15,15,low,fast
+553,1998,alice,25,Female,unspecified,350.25,Card,2024-01-12,15,low,fast
+554,1663,eve,40,Male,bangalore,0.0,Cash,2024-02-15,4,,slow
+555,1662, frank,18,Male, delhi ,999.0,Net_Banking,2024-01-12,4,high,slow
+556,1189,david ,30,Unspecified,bangalore,0.0,Net_Banking,2024-02-15,4,,slow
+557,1735,charlie,25,Male,bangalore,0.0,Cash,2024-02-15,0,,slow
+558,1779,david ,35,Male,new york,500.0,Net_Banking,2024-02-15,2,high,slow
+559,1694, frank,25,Male,unspecified,999.0,Unspecified,2024-02-15,0,high,slow
+560,1524,david ,25,Female,unspecified,100.0,Cash,2024-02-15,1,low,slow
+561,1216, frank,40,Unspecified,pune,350.25,Net_Banking,2024-01-12,15,low,fast
+562,1866,Unknown,40,Male,pune,100.0,Upi,2024-01-12,4,low,slow
+563,1797,eve,25,Female,unspecified,100.0,Card,2024-03-15,4,low,slow
+564,1595,eve,25,Female,bangalore,999.0,Unspecified,2024-02-15,0,high,slow
+565,1879,bob,35,Unspecified, delhi ,450.0,Card,2024-01-12,2,high,slow
+566,1728,alice,25,Male, delhi ,0.0,Unspecified,2024-02-15,5,,fast
+567,1698,Unknown,18,Unspecified,unspecified,0.0,Card,2024-01-12,4,,slow
+568,1018,Unknown,25,Female,pune,350.25,Card,2024-02-15,1,low,slow
+569,1176, frank,25,Unspecified,unspecified,500.0,Upi,2024-02-15,2,high,slow
+570,1611,alice,25,Male,unspecified,350.25,Unspecified,2024-02-15,2,low,slow
+571,1395,Unknown,25,Unspecified,bangalore,450.0,Card,2024-02-15,4,high,slow
+572,1444,charlie,30,Unspecified,unspecified,500.0,Upi,2024-02-15,4,high,slow
+573,1232,eve,40,Male, delhi ,100.0,Net_Banking,2024-01-12,5,low,fast
+574,1914,alice,40,Unspecified,bangalore,999.0,Upi,2024-02-15,4,high,slow
+575,1075,Unknown,18,Male,new york,350.25,Net_Banking,2024-01-12,4,low,slow
+576,1795,bob,35,Unspecified,new york,500.0,Net_Banking,2024-01-12,5,high,fast
+577,1734,david ,25,Male,new york,999.0,Unspecified,2024-02-15,15,high,fast
+578,1383,Unknown,25,Male,bangalore,450.0,Net_Banking,2024-02-15,3,high,slow
